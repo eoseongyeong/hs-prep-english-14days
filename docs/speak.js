@@ -31,7 +31,7 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll("td.word").forEach(function (el) {
+    document.querySelectorAll("td.word, td.ex").forEach(function (el) {
       el.addEventListener("click", function () {
         speak(el);
       });
