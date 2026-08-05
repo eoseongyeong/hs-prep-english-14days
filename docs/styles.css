@@ -179,6 +179,22 @@ td.word {
   font-weight: 600;
   color: var(--sea-deep);
   white-space: nowrap;
+  cursor: pointer;
+}
+
+td.word:hover {
+  text-decoration: underline;
+}
+
+td.word::after {
+  content: "🔊";
+  margin-left: 0.35em;
+  font-size: 0.8em;
+  opacity: 0.55;
+}
+
+td.word.speaking {
+  color: var(--amber);
 }
 
 td.pos {
