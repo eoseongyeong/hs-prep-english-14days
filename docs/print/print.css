@@ -1,0 +1,12 @@
+@import url("../styles.css");
+body { background: #fff !important; font-size: 11pt; }
+.site-nav, .footer-nav { display: none !important; }
+.hero { box-shadow: none !important; padding: 1.2rem 1.1rem !important; }
+.card { box-shadow: none !important; break-inside: avoid; margin-bottom: 0.85rem !important; padding: 0.9rem 1rem !important; }
+details.answer { display: block !important; border-style: solid !important; background: #f3f7f8 !important; }
+details.answer summary { display: none !important; }
+details.answer::before { content: "정답"; display: block; font-weight: 700; color: #0a4f52; margin-bottom: 0.25rem; }
+table { font-size: 9.5pt; }
+th, td { padding: 0.28rem 0.25rem !important; }
+.brand { font-size: 1.45rem !important; }
+@page { size: A4; margin: 14mm 12mm; }
