@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CAE 14일 핵심 — Day 3</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&family=Noto+Sans+KR:wght@400;600;700&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <nav class="site-nav"><a href="index.html">CAE 홈</a><a href="day1.html">Day 1</a><a href="day2.html">Day 2</a><a href="day3.html" class="active">Day 3</a><a href="day4.html">Day 4</a><a href="day5.html">Day 5</a><a href="day6.html">Day 6</a><a href="day7.html">Day 7</a><a href="day8.html">Day 8</a><a href="day9.html">Day 9</a><a href="day10.html">Day 10</a><a href="day11.html">Day 11</a><a href="day12.html">Day 12</a><a href="day13.html">Day 13</a><a href="day14.html">Day 14</a><a href="../index.html">메인 코스</a></nav>
+    <header class="hero">
+      <p class="brand">CAE 14일 핵심</p>
+      <p>Day 3 — 복합 분사구문 · 독립분사구문 · 생략과 대용</p>
+      <div class="meta">
+        <span class="chip">단어 30</span>
+        <span class="chip">문법 3</span>
+        <span class="chip">CAE(C1) · Cambridge Advanced 대비</span>
+      </div>
+    </header>
+
+    <section class="card" id="words">
+      <h2>오늘의 단어 (30)</h2>
+      <table><thead><tr><th>No.</th><th>Word</th><th>품사</th><th>뜻</th><th>예문</th><th>해석</th></tr></thead><tbody><tr><td>1</td><td class='word'>tentative</td><td class='pos'>a.</td><td>잠정적인</td><td class="ex" style="font-family:var(--font-en)">The committee reached a tentative agreement pending further review.</td><td class="trans">위원회는 추가 검토를 조건으로 잠정 합의에 도달했다.</td></tr><tr><td>2</td><td class='word'>provisional</td><td class='pos'>a.</td><td>임시의, 잠정적인</td><td class="ex" style="font-family:var(--font-en)">A provisional government was formed until elections could be held.</td><td class="trans">선거가 치러질 때까지 임시 정부가 구성되었다.</td></tr><tr><td>3</td><td class='word'>preliminary</td><td class='pos'>a.</td><td>예비의</td><td class="ex" style="font-family:var(--font-en)">Preliminary results suggest the drug may reduce inflammation.</td><td class="trans">예비 결과는 그 약물이 염증을 줄일 수 있음을 시사한다.</td></tr><tr><td>4</td><td class='word'>definitive</td><td class='pos'>a.</td><td>결정적인, 최종적인</td><td class="ex" style="font-family:var(--font-en)">There is still no definitive answer to what caused the extinction.</td><td class="trans">그 멸종의 원인에 대한 결정적인 답은 아직 없다.</td></tr><tr><td>5</td><td class='word'>salient</td><td class='pos'>a.</td><td>두드러진, 핵심적인</td><td class="ex" style="font-family:var(--font-en)">The report identifies the most salient risks facing the industry.</td><td class="trans">그 보고서는 업계가 직면한 가장 두드러진 위험들을 짚어낸다.</td></tr><tr><td>6</td><td class='word'>germane</td><td class='pos'>a.</td><td>관련 있는, 적절한</td><td class="ex" style="font-family:var(--font-en)">Please keep your comments germane to the topic under discussion.</td><td class="trans">논의 중인 주제와 관련된 의견만 말씀해 주세요.</td></tr><tr><td>7</td><td class='word'>extraneous</td><td class='pos'>a.</td><td>무관한, 부수적인</td><td class="ex" style="font-family:var(--font-en)">Researchers tried to eliminate extraneous variables from the experiment.</td><td class="trans">연구자들은 실험에서 무관한 변인들을 제거하려 했다.</td></tr><tr><td>8</td><td class='word'>causal</td><td class='pos'>a.</td><td>인과관계의</td><td class="ex" style="font-family:var(--font-en)">The study found no causal link between the two factors.</td><td class="trans">그 연구는 두 요인 사이에 인과관계가 없음을 발견했다.</td></tr><tr><td>9</td><td class='word'>correlation</td><td class='pos'>n.</td><td>상관관계</td><td class="ex" style="font-family:var(--font-en)">A strong correlation does not necessarily imply causation.</td><td class="trans">강한 상관관계가 반드시 인과관계를 의미하지는 않는다.</td></tr><tr><td>10</td><td class='word'>causation</td><td class='pos'>n.</td><td>인과관계</td><td class="ex" style="font-family:var(--font-en)">Establishing causation requires more than observing a pattern.</td><td class="trans">인과관계를 입증하려면 패턴을 관찰하는 것 이상이 필요하다.</td></tr><tr><td>11</td><td class='word'>confound</td><td class='pos'>v.</td><td>혼동시키다, 결과를 흐리다</td><td class="ex" style="font-family:var(--font-en)">Age and income may confound the relationship being studied.</td><td class="trans">나이와 소득이 연구 중인 관계를 혼동시킬 수 있다.</td></tr><tr><td>12</td><td class='word'>replicate</td><td class='pos'>v.</td><td>실험 등을 재현하다</td><td class="ex" style="font-family:var(--font-en)">Other laboratories struggled to replicate the original results.</td><td class="trans">다른 실험실들은 원래 결과를 재현하는 데 어려움을 겪었다.</td></tr><tr><td>13</td><td class='word'>reproducibility</td><td class='pos'>n.</td><td>재현 가능성</td><td class="ex" style="font-family:var(--font-en)">Reproducibility is a cornerstone of credible scientific research.</td><td class="trans">재현 가능성은 신뢰할 수 있는 과학 연구의 초석이다.</td></tr><tr><td>14</td><td class='word'>anecdotal</td><td class='pos'>a.</td><td>일화적인, 개인 경험에 의존한</td><td class="ex" style="font-family:var(--font-en)">The claim is based on anecdotal evidence rather than controlled trials.</td><td class="trans">그 주장은 통제된 실험이 아니라 일화적 증거에 근거한다.</td></tr><tr><td>15</td><td class='word'>inconclusive</td><td class='pos'>a.</td><td>결론이 나지 않은</td><td class="ex" style="font-family:var(--font-en)">The test results remained inconclusive.</td><td class="trans">검사 결과는 결론이 나지 않은 채로 남았다.</td></tr><tr><td>16</td><td class='word'>falsifiable</td><td class='pos'>a.</td><td>반증 가능한</td><td class="ex" style="font-family:var(--font-en)">A scientific theory must be falsifiable in principle.</td><td class="trans">과학 이론은 원칙적으로 반증 가능해야 한다.</td></tr><tr><td>17</td><td class='word'>empirical</td><td class='pos'>a.</td><td>실증적인, 경험적인</td><td class="ex" style="font-family:var(--font-en)">The claim lacks empirical support.</td><td class="trans">그 주장은 실증적 근거가 부족하다.</td></tr><tr><td>18</td><td class='word'>rigorous</td><td class='pos'>a.</td><td>엄밀한, 철저한</td><td class="ex" style="font-family:var(--font-en)">The journal requires a rigorous peer-review process.</td><td class="trans">그 학술지는 엄밀한 동료 심사 과정을 요구한다.</td></tr><tr><td>19</td><td class='word'>robust</td><td class='pos'>a.</td><td>탄탄한, 견고한</td><td class="ex" style="font-family:var(--font-en)">The findings proved robust across multiple samples.</td><td class="trans">그 결과는 여러 표본에 걸쳐 탄탄한 것으로 입증되었다.</td></tr><tr><td>20</td><td class='word'>longitudinal</td><td class='pos'>a.</td><td>종단적인</td><td class="ex" style="font-family:var(--font-en)">A longitudinal study tracked the same participants for twenty years.</td><td class="trans">한 종단 연구는 동일한 참가자들을 20년간 추적했다.</td></tr><tr><td>21</td><td class='word'>meticulous</td><td class='pos'>a.</td><td>꼼꼼한, 세심한</td><td class="ex" style="font-family:var(--font-en)">The technician kept meticulous records of every trial.</td><td class="trans">그 기술자는 모든 실험에 대해 꼼꼼한 기록을 남겼다.</td></tr><tr><td>22</td><td class='word'>exhaustive</td><td class='pos'>a.</td><td>철저한, 낱낱의</td><td class="ex" style="font-family:var(--font-en)">An exhaustive review of the literature revealed no prior study.</td><td class="trans">문헌에 대한 철저한 검토 결과 이전 연구가 없음이 드러났다.</td></tr><tr><td>23</td><td class='word'>circumstantial</td><td class='pos'>a.</td><td>정황적인</td><td class="ex" style="font-family:var(--font-en)">The case relied heavily on circumstantial evidence.</td><td class="trans">그 사건은 정황 증거에 크게 의존했다.</td></tr><tr><td>24</td><td class='word'>qualitative</td><td class='pos'>a.</td><td>정성적인</td><td class="ex" style="font-family:var(--font-en)">The team combined qualitative interviews with quantitative surveys.</td><td class="trans">그 팀은 정성적 인터뷰와 정량적 설문조사를 결합했다.</td></tr><tr><td>25</td><td class='word'>quantitative</td><td class='pos'>a.</td><td>정량적인</td><td class="ex" style="font-family:var(--font-en)">Quantitative data confirmed the initial observations.</td><td class="trans">정량적 데이터가 초기 관찰을 확인해 주었다.</td></tr><tr><td>26</td><td class='word'>stringent</td><td class='pos'>a.</td><td>엄격한</td><td class="ex" style="font-family:var(--font-en)">The lab follows stringent safety protocols.</td><td class="trans">그 실험실은 엄격한 안전 수칙을 따른다.</td></tr><tr><td>27</td><td class='word'>innate</td><td class='pos'>a.</td><td>타고난, 선천적인</td><td class="ex" style="font-family:var(--font-en)">Some argue that a sense of fairness is innate in humans.</td><td class="trans">어떤 이들은 공정성에 대한 감각이 인간에게 타고난 것이라고 주장한다.</td></tr><tr><td>28</td><td class='word'>inherent</td><td class='pos'>a.</td><td>내재된, 고유의</td><td class="ex" style="font-family:var(--font-en)">Every experimental design has inherent limitations.</td><td class="trans">모든 실험 설계에는 내재된 한계가 있다.</td></tr><tr><td>29</td><td class='word'>intrinsic</td><td class='pos'>a.</td><td>본질적인, 내재적인</td><td class="ex" style="font-family:var(--font-en)">The study focuses on the intrinsic value of biodiversity.</td><td class="trans">그 연구는 생물다양성의 본질적 가치에 초점을 맞춘다.</td></tr><tr><td>30</td><td class='word'>extrinsic</td><td class='pos'>a.</td><td>외재적인, 외부의</td><td class="ex" style="font-family:var(--font-en)">Extrinsic rewards can sometimes reduce intrinsic motivation.</td><td class="trans">외재적 보상은 때때로 내재적 동기를 감소시킬 수 있다.</td></tr></tbody></table>
+    </section>
+
+    <section class="card quiz" id="quiz">
+      <h2>단어 확인 퀴즈</h2>
+      <h3>A. 뜻 고르기</h3>
+      <ol><li>tentative — (a) 정성적인 (b) 잠정적인 (c) 종단적인</li><li>provisional — (a) 결정적인, 최종적인 (b) 타고난, 선천적인 (c) 임시의, 잠정적인</li><li>preliminary — (a) 예비의 (b) 반증 가능한 (c) 재현 가능성</li><li>definitive — (a) 결정적인, 최종적인 (b) 탄탄한, 견고한 (c) 정황적인</li></ol>
+      <h3>B. 빈칸 채우기</h3>
+      <ol start="5"><li>The report identifies the most __________ risks facing the industry. (두드러진)</li><li>Please keep your comments __________ to the topic under discussion. (관련 있는)</li><li>Researchers tried to eliminate __________ variables from the experiment. (무관한)</li><li>The study found no __________ link between the two factors. (인과관계의)</li></ol>
+      <details class="answer"><summary>정답 보기</summary>A: 1-(b) 2-(c) 3-(a) 4-(a)<br>B: 5. salient · 6. germane · 7. extraneous · 8. causal</details>
+    </section>
+
+    
+    <section class="card">
+      <h2>문법 1. 복합 분사구문 (완료·수동 분사)</h2>
+      <div class="grammar-box"><p><strong>Having + p.p.</strong>: 주절보다 먼저 일어난 일</p>
+<div class='example'><strong>Having finished</strong> the report, she left early.</div>
+
+<p><strong>Being + p.p. / p.p. (수동 분사구문)</strong></p>
+<div class='example'>(<strong>Being</strong>) <strong>Written</strong> in haste, the report contained several errors.</div>
+
+<p><strong>부정형:</strong> Not + 분사</p>
+<div class='example'><strong>Not having received</strong> a reply, he called again.</div></div>
+      <h3>연습 1</h3>
+      <ol><li>__________ (finish) the exam early, she reviewed her answers twice.</li><li>__________ (write) in the 1800s, the novel still feels relevant today.</li><li>__________ (not receive) any confirmation, they assumed the deal was off.</li><li>__________ (exhaust) by the journey, the team decided to rest.</li></ol>
+      <details class="answer"><summary>정답</summary>1 Having finished · 2 Written · 3 Not having received · 4 Exhausted</details>
+    </section>
+    <section class="card">
+      <h2>문법 2. 독립분사구문 (Absolute Construction)</h2>
+      <div class="grammar-box"><p><strong>주절과 주어가 다를 때 분사구문 앞에 의미상 주어를 남긴다</strong></p>
+
+<div class='example'><strong>The weather permitting</strong>, we will hold the event outdoors.</div>
+<div class='example'><strong>All things considered</strong>, the plan was a success.</div>
+<div class='example'><strong>Weather permitting</strong> / <strong>Everything else being equal</strong> — 자주 쓰이는 관용 표현</div></div>
+      <h3>연습 2</h3>
+      <ol><li>__________ (the deadline, approach), the team worked through the night.</li><li>All things __________ (consider), the merger was a wise decision.</li><li>__________ (there, be) no objections, the motion was passed.</li><li>__________ (weather, permit), the launch will proceed as planned.</li></ol>
+      <details class="answer"><summary>정답</summary>1 The deadline approaching · 2 considered · 3 There being · 4 Weather permitting</details>
+    </section>
+    <section class="card">
+      <h2>문법 3. 생략과 대용 (Ellipsis &amp; Substitution)</h2>
+      <div class="grammar-box"><p><strong>반복되는 요소는 생략하거나 so/do so/one 등으로 대체</strong></p>
+
+<table><tr><th>대용 표현</th><th>용법</th><th>예</th></tr><tr><td>so / not</td><td>think, hope, believe 뒤</td><td>&quot;Will it rain?&quot; &quot;I think <strong>so</strong>.&quot;</td></tr><tr><td>do so</td><td>앞의 동사구 대체</td><td>He asked her to leave, and she <strong>did so</strong>.</td></tr><tr><td>one(s)</td><td>앞의 단수/복수 명사 대체</td><td>I need a pen; do you have <strong>one</strong>?</td></tr><tr><td>(생략)</td><td>반복되는 절 생략</td><td>She can swim, and he can (swim), too.</td></tr></table></div>
+      <h3>연습 3</h3>
+      <ol><li>&quot;Is the project finished?&quot; &quot;I believe __________.&quot; (so 사용)</li><li>He was told to leave the room, and he __________ (do so) without protest.</li><li>I lost my umbrella, so I need to buy a new __________ (대명사).</li><li>She wanted to resign, and eventually she __________ (반복 생략).</li></ol>
+      <details class="answer"><summary>정답</summary>1 so · 2 did so · 3 one · 4 did</details>
+    </section>
+
+    <section class="card">
+      <h2>오늘 복습 체크</h2>
+      <ul class="checks"><li>☐ 단어 30개 확인</li><li>☐ 복합 분사구문</li><li>☐ 독립분사구문</li><li>☐ 생략과 대용</li></ul>
+    </section>
+
+    <div class="footer-nav"><a class="btn ghost" href="day2.html">← 이전</a><a class="btn" href="day4.html">다음 →</a></div>
+  </div>
+  <script src="../speak.js"></script>
+</body>
+</html>
