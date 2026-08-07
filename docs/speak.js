@@ -8,8 +8,21 @@
   loadVoices();
   window.speechSynthesis.onvoiceschanged = loadVoices;
 
+  var PREFERRED_NAMES = [
+    "Google UK English Female",
+    "Google UK English Male",
+    "Serena",
+    "Stephanie",
+    "Arthur",
+  ];
+
   function pickBritishVoice() {
+    for (var i = 0; i < PREFERRED_NAMES.length; i++) {
+      var found = voices.find(function (v) { return v.name === PREFERRED_NAMES[i]; });
+      if (found) return found;
+    }
     return (
+      voices.find(function (v) { return v.lang === "en-GB" && v.name.indexOf("Daniel") === -1; }) ||
       voices.find(function (v) { return v.lang === "en-GB"; }) ||
       voices.find(function (v) { return v.lang && v.lang.indexOf("en-GB") === 0; }) ||
       null
