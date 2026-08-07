@@ -1,0 +1,2162 @@
+{
+ "1": [
+  [
+   "hello",
+   "int.",
+   "안녕(하세요)",
+   "Hello, how are you?",
+   "안녕, 잘 지내?"
+  ],
+  [
+   "hi",
+   "int.",
+   "안녕",
+   "Hi! Nice to meet you.",
+   "안녕! 만나서 반가워."
+  ],
+  [
+   "goodbye",
+   "int.",
+   "안녕(작별)",
+   "Goodbye, see you tomorrow.",
+   "안녕, 내일 보자."
+  ],
+  [
+   "name",
+   "n.",
+   "이름",
+   "What is your name?",
+   "네 이름이 뭐니?"
+  ],
+  [
+   "meet",
+   "v.",
+   "만나다",
+   "Nice to meet you.",
+   "만나서 반가워."
+  ],
+  [
+   "friend",
+   "n.",
+   "친구",
+   "He is my best friend.",
+   "그는 내 가장 친한 친구야."
+  ],
+  [
+   "introduce",
+   "v.",
+   "소개하다",
+   "Let me introduce myself.",
+   "제 소개를 할게요."
+  ],
+  [
+   "thank",
+   "v.",
+   "감사하다",
+   "Thank you for your help.",
+   "도와줘서 고마워."
+  ],
+  [
+   "sorry",
+   "a.",
+   "미안한",
+   "I'm sorry I'm late.",
+   "늦어서 미안해."
+  ],
+  [
+   "please",
+   "adv.",
+   "제발, ~해주세요",
+   "Please close the door.",
+   "문 좀 닫아 주세요."
+  ]
+ ],
+ "2": [
+  [
+   "family",
+   "n.",
+   "가족",
+   "I love my family.",
+   "나는 우리 가족을 사랑해."
+  ],
+  [
+   "mother",
+   "n.",
+   "어머니",
+   "My mother is a teacher.",
+   "우리 엄마는 선생님이야."
+  ],
+  [
+   "father",
+   "n.",
+   "아버지",
+   "My father works at a bank.",
+   "우리 아빠는 은행에서 일해."
+  ],
+  [
+   "parents",
+   "n.",
+   "부모님",
+   "My parents are very kind.",
+   "우리 부모님은 매우 친절하셔."
+  ],
+  [
+   "brother",
+   "n.",
+   "형제, 오빠, 남동생",
+   "I have one brother.",
+   "나는 남자형제가 한 명 있어."
+  ],
+  [
+   "sister",
+   "n.",
+   "자매, 언니, 여동생",
+   "She is my older sister.",
+   "그녀는 나의 언니야."
+  ],
+  [
+   "grandmother",
+   "n.",
+   "할머니",
+   "My grandmother lives in Busan.",
+   "우리 할머니는 부산에 사셔."
+  ],
+  [
+   "grandfather",
+   "n.",
+   "할아버지",
+   "My grandfather tells great stories.",
+   "우리 할아버지는 이야기를 재미있게 해주셔."
+  ],
+  [
+   "baby",
+   "n.",
+   "아기",
+   "The baby is sleeping.",
+   "아기가 자고 있어."
+  ],
+  [
+   "child",
+   "n.",
+   "아이",
+   "Every child needs love.",
+   "모든 아이는 사랑이 필요해."
+  ]
+ ],
+ "3": [
+  [
+   "school",
+   "n.",
+   "학교",
+   "I go to school by bus.",
+   "나는 버스를 타고 학교에 가."
+  ],
+  [
+   "teacher",
+   "n.",
+   "선생님",
+   "Our teacher is very kind.",
+   "우리 선생님은 매우 친절하셔."
+  ],
+  [
+   "student",
+   "n.",
+   "학생",
+   "She is a good student.",
+   "그녀는 좋은 학생이야."
+  ],
+  [
+   "classroom",
+   "n.",
+   "교실",
+   "The classroom is clean.",
+   "교실이 깨끗해."
+  ],
+  [
+   "homework",
+   "n.",
+   "숙제",
+   "I have a lot of homework.",
+   "나는 숙제가 많아."
+  ],
+  [
+   "book",
+   "n.",
+   "책",
+   "I read a book every night.",
+   "나는 매일 밤 책을 읽어."
+  ],
+  [
+   "pencil",
+   "n.",
+   "연필",
+   "Can I borrow your pencil?",
+   "네 연필 좀 빌려도 될까?"
+  ],
+  [
+   "desk",
+   "n.",
+   "책상",
+   "My desk is next to the window.",
+   "내 책상은 창문 옆에 있어."
+  ],
+  [
+   "study",
+   "v.",
+   "공부하다",
+   "I study English every day.",
+   "나는 매일 영어를 공부해."
+  ],
+  [
+   "test",
+   "n.",
+   "시험",
+   "We have a math test tomorrow.",
+   "우리는 내일 수학 시험이 있어."
+  ]
+ ],
+ "4": [
+  [
+   "wake up",
+   "v.",
+   "일어나다, 잠에서 깨다",
+   "I wake up at seven.",
+   "나는 7시에 일어나."
+  ],
+  [
+   "get up",
+   "v.",
+   "일어나다(침대에서)",
+   "Get up! You're late.",
+   "일어나! 너 늦었어."
+  ],
+  [
+   "breakfast",
+   "n.",
+   "아침식사",
+   "I eat breakfast at home.",
+   "나는 집에서 아침을 먹어."
+  ],
+  [
+   "lunch",
+   "n.",
+   "점심식사",
+   "We have lunch at noon.",
+   "우리는 정오에 점심을 먹어."
+  ],
+  [
+   "dinner",
+   "n.",
+   "저녁식사",
+   "Let's have dinner together.",
+   "같이 저녁 먹자."
+  ],
+  [
+   "brush",
+   "v.",
+   "닦다, 솔질하다",
+   "Brush your teeth every morning.",
+   "매일 아침 이를 닦아라."
+  ],
+  [
+   "wash",
+   "v.",
+   "씻다",
+   "Wash your hands before eating.",
+   "먹기 전에 손을 씻어."
+  ],
+  [
+   "shower",
+   "n./v.",
+   "샤워; 샤워하다",
+   "I take a shower every night.",
+   "나는 매일 밤 샤워를 해."
+  ],
+  [
+   "sleep",
+   "v.",
+   "자다",
+   "I sleep eight hours a day.",
+   "나는 하루에 8시간 자."
+  ],
+  [
+   "rest",
+   "v./n.",
+   "쉬다; 휴식",
+   "You need to rest.",
+   "너는 쉬어야 해."
+  ]
+ ],
+ "5": [
+  [
+   "food",
+   "n.",
+   "음식",
+   "I love Korean food.",
+   "나는 한국 음식을 좋아해."
+  ],
+  [
+   "rice",
+   "n.",
+   "밥, 쌀",
+   "We eat rice every day.",
+   "우리는 매일 밥을 먹어."
+  ],
+  [
+   "bread",
+   "n.",
+   "빵",
+   "She bought some bread.",
+   "그녀는 빵을 좀 샀어."
+  ],
+  [
+   "water",
+   "n.",
+   "물",
+   "Drink more water.",
+   "물을 더 마셔."
+  ],
+  [
+   "milk",
+   "n.",
+   "우유",
+   "I drink milk every morning.",
+   "나는 매일 아침 우유를 마셔."
+  ],
+  [
+   "fruit",
+   "n.",
+   "과일",
+   "Fruit is good for your health.",
+   "과일은 건강에 좋아."
+  ],
+  [
+   "vegetable",
+   "n.",
+   "채소",
+   "Eat your vegetables.",
+   "채소를 먹어."
+  ],
+  [
+   "meat",
+   "n.",
+   "고기",
+   "He doesn't eat meat.",
+   "그는 고기를 먹지 않아."
+  ],
+  [
+   "delicious",
+   "a.",
+   "맛있는",
+   "This pizza is delicious.",
+   "이 피자는 맛있어."
+  ],
+  [
+   "hungry",
+   "a.",
+   "배고픈",
+   "I'm so hungry now.",
+   "나 지금 너무 배고파."
+  ]
+ ],
+ "6": [
+  [
+   "one",
+   "num.",
+   "하나",
+   "I have one sister.",
+   "나는 여동생이 한 명 있어."
+  ],
+  [
+   "two",
+   "num.",
+   "둘",
+   "She has two cats.",
+   "그녀는 고양이가 두 마리 있어."
+  ],
+  [
+   "hundred",
+   "num.",
+   "백",
+   "The book has a hundred pages.",
+   "그 책은 백 페이지야."
+  ],
+  [
+   "time",
+   "n.",
+   "시간",
+   "What time is it?",
+   "지금 몇 시야?"
+  ],
+  [
+   "hour",
+   "n.",
+   "시간(단위)",
+   "It takes one hour.",
+   "한 시간 걸려."
+  ],
+  [
+   "minute",
+   "n.",
+   "분",
+   "Wait a minute.",
+   "잠깐만 기다려."
+  ],
+  [
+   "today",
+   "n.",
+   "오늘",
+   "Today is Monday.",
+   "오늘은 월요일이야."
+  ],
+  [
+   "tomorrow",
+   "n.",
+   "내일",
+   "See you tomorrow.",
+   "내일 보자."
+  ],
+  [
+   "yesterday",
+   "n.",
+   "어제",
+   "I was busy yesterday.",
+   "나는 어제 바빴어."
+  ],
+  [
+   "early",
+   "a./adv.",
+   "이른; 일찍",
+   "I wake up early.",
+   "나는 일찍 일어나."
+  ]
+ ],
+ "7": [
+  [
+   "weather",
+   "n.",
+   "날씨",
+   "How's the weather today?",
+   "오늘 날씨 어때?"
+  ],
+  [
+   "sunny",
+   "a.",
+   "화창한",
+   "It's sunny today.",
+   "오늘은 화창해."
+  ],
+  [
+   "rainy",
+   "a.",
+   "비오는",
+   "It's rainy outside.",
+   "밖에 비가 와."
+  ],
+  [
+   "cloudy",
+   "a.",
+   "흐린",
+   "It's cloudy this morning.",
+   "오늘 아침은 흐려."
+  ],
+  [
+   "snow",
+   "n./v.",
+   "눈; 눈이 오다",
+   "It snows in winter.",
+   "겨울에는 눈이 와."
+  ],
+  [
+   "hot",
+   "a.",
+   "더운",
+   "It's very hot in summer.",
+   "여름에는 매우 더워."
+  ],
+  [
+   "cold",
+   "a.",
+   "추운",
+   "It's cold outside.",
+   "밖은 추워."
+  ],
+  [
+   "spring",
+   "n.",
+   "봄",
+   "I like spring the most.",
+   "나는 봄을 가장 좋아해."
+  ],
+  [
+   "summer",
+   "n.",
+   "여름",
+   "Summer vacation starts soon.",
+   "여름 방학이 곧 시작돼."
+  ],
+  [
+   "winter",
+   "n.",
+   "겨울",
+   "Winter is very cold here.",
+   "여기는 겨울이 매우 추워."
+  ]
+ ],
+ "8": [
+  [
+   "hobby",
+   "n.",
+   "취미",
+   "My hobby is reading.",
+   "내 취미는 독서야."
+  ],
+  [
+   "sport",
+   "n.",
+   "운동, 스포츠",
+   "Soccer is my favorite sport.",
+   "축구는 내가 가장 좋아하는 스포츠야."
+  ],
+  [
+   "play",
+   "v.",
+   "운동·놀이를 하다",
+   "I play soccer after school.",
+   "나는 방과 후에 축구를 해."
+  ],
+  [
+   "swim",
+   "v.",
+   "수영하다",
+   "I can swim well.",
+   "나는 수영을 잘 할 수 있어."
+  ],
+  [
+   "run",
+   "v.",
+   "달리다",
+   "He runs every morning.",
+   "그는 매일 아침 달려."
+  ],
+  [
+   "dance",
+   "v./n.",
+   "춤추다; 춤",
+   "She loves to dance.",
+   "그녀는 춤추는 것을 좋아해."
+  ],
+  [
+   "sing",
+   "v.",
+   "노래하다",
+   "I like to sing songs.",
+   "나는 노래 부르는 것을 좋아해."
+  ],
+  [
+   "draw",
+   "v.",
+   "그리다",
+   "He can draw very well.",
+   "그는 그림을 매우 잘 그려."
+  ],
+  [
+   "game",
+   "n.",
+   "게임",
+   "Let's play a game.",
+   "게임 하자."
+  ],
+  [
+   "team",
+   "n.",
+   "팀",
+   "Our team won the game.",
+   "우리 팀이 경기에서 이겼어."
+  ]
+ ],
+ "9": [
+  [
+   "happy",
+   "a.",
+   "행복한",
+   "She looks very happy.",
+   "그녀는 매우 행복해 보여."
+  ],
+  [
+   "sad",
+   "a.",
+   "슬픈",
+   "Why are you sad?",
+   "너 왜 슬퍼?"
+  ],
+  [
+   "angry",
+   "a.",
+   "화난",
+   "He was angry at me.",
+   "그는 나에게 화가 났었어."
+  ],
+  [
+   "scared",
+   "a.",
+   "무서운, 겁먹은",
+   "I'm scared of dogs.",
+   "나는 개가 무서워."
+  ],
+  [
+   "tired",
+   "a.",
+   "피곤한",
+   "I'm so tired today.",
+   "나 오늘 너무 피곤해."
+  ],
+  [
+   "excited",
+   "a.",
+   "신난",
+   "We are excited about the trip.",
+   "우리는 그 여행이 기대돼."
+  ],
+  [
+   "surprised",
+   "a.",
+   "놀란",
+   "I was surprised by the news.",
+   "나는 그 소식에 놀랐어."
+  ],
+  [
+   "bored",
+   "a.",
+   "지루한",
+   "I'm bored at home.",
+   "나는 집에서 지루해."
+  ],
+  [
+   "worried",
+   "a.",
+   "걱정하는",
+   "Don't be worried.",
+   "걱정하지 마."
+  ],
+  [
+   "proud",
+   "a.",
+   "자랑스러운",
+   "I'm proud of you.",
+   "나는 네가 자랑스러워."
+  ]
+ ],
+ "10": [
+  [
+   "body",
+   "n.",
+   "몸",
+   "Exercise is good for your body.",
+   "운동은 몸에 좋아."
+  ],
+  [
+   "head",
+   "n.",
+   "머리",
+   "My head hurts.",
+   "머리가 아파."
+  ],
+  [
+   "hand",
+   "n.",
+   "손",
+   "Wash your hands.",
+   "손을 씻어라."
+  ],
+  [
+   "foot",
+   "n.",
+   "발",
+   "My feet are cold.",
+   "발이 차가워."
+  ],
+  [
+   "eye",
+   "n.",
+   "눈",
+   "She has big eyes.",
+   "그녀는 눈이 커."
+  ],
+  [
+   "face",
+   "n.",
+   "얼굴",
+   "Wash your face.",
+   "얼굴을 씻어라."
+  ],
+  [
+   "sick",
+   "a.",
+   "아픈",
+   "I feel sick today.",
+   "나 오늘 아파."
+  ],
+  [
+   "healthy",
+   "a.",
+   "건강한",
+   "Eat healthy food.",
+   "건강한 음식을 먹어."
+  ],
+  [
+   "doctor",
+   "n.",
+   "의사",
+   "I want to see a doctor.",
+   "나는 의사를 만나고 싶어."
+  ],
+  [
+   "hospital",
+   "n.",
+   "병원",
+   "He went to the hospital.",
+   "그는 병원에 갔어."
+  ]
+ ],
+ "11": [
+  [
+   "animal",
+   "n.",
+   "동물",
+   "I love animals.",
+   "나는 동물을 좋아해."
+  ],
+  [
+   "dog",
+   "n.",
+   "개",
+   "My dog is very cute.",
+   "우리 개는 정말 귀여워."
+  ],
+  [
+   "cat",
+   "n.",
+   "고양이",
+   "The cat is sleeping.",
+   "고양이가 자고 있어."
+  ],
+  [
+   "bird",
+   "n.",
+   "새",
+   "Birds can fly.",
+   "새는 날 수 있어."
+  ],
+  [
+   "fish",
+   "n.",
+   "물고기",
+   "Fish live in water.",
+   "물고기는 물에 살아."
+  ],
+  [
+   "rabbit",
+   "n.",
+   "토끼",
+   "The rabbit is fast.",
+   "토끼는 빨라."
+  ],
+  [
+   "horse",
+   "n.",
+   "말",
+   "He can ride a horse.",
+   "그는 말을 탈 수 있어."
+  ],
+  [
+   "lion",
+   "n.",
+   "사자",
+   "The lion is the king of animals.",
+   "사자는 동물의 왕이야."
+  ],
+  [
+   "elephant",
+   "n.",
+   "코끼리",
+   "The elephant is very big.",
+   "코끼리는 매우 커."
+  ],
+  [
+   "bear",
+   "n.",
+   "곰",
+   "The bear sleeps in winter.",
+   "곰은 겨울에 잠을 자."
+  ]
+ ],
+ "12": [
+  [
+   "color",
+   "n.",
+   "색깔",
+   "What color do you like?",
+   "어떤 색을 좋아해?"
+  ],
+  [
+   "red",
+   "a./n.",
+   "빨간(색)",
+   "I like the red car.",
+   "나는 그 빨간 차가 좋아."
+  ],
+  [
+   "blue",
+   "a./n.",
+   "파란(색)",
+   "The sky is blue.",
+   "하늘은 파래."
+  ],
+  [
+   "yellow",
+   "a./n.",
+   "노란(색)",
+   "The sun is yellow.",
+   "해는 노랗다."
+  ],
+  [
+   "green",
+   "a./n.",
+   "초록(색)",
+   "The grass is green.",
+   "잔디는 초록색이야."
+  ],
+  [
+   "black",
+   "a./n.",
+   "검은(색)",
+   "She has black hair.",
+   "그녀는 검은 머리를 가지고 있어."
+  ],
+  [
+   "white",
+   "a./n.",
+   "흰(색)",
+   "Snow is white.",
+   "눈은 하얗다."
+  ],
+  [
+   "circle",
+   "n.",
+   "원",
+   "Draw a circle.",
+   "원을 그려라."
+  ],
+  [
+   "square",
+   "n.",
+   "정사각형",
+   "The box is a square.",
+   "그 상자는 정사각형이야."
+  ],
+  [
+   "round",
+   "a.",
+   "둥근",
+   "The ball is round.",
+   "공은 둥글어."
+  ]
+ ],
+ "13": [
+  [
+   "house",
+   "n.",
+   "집",
+   "This is my house.",
+   "여기가 우리 집이야."
+  ],
+  [
+   "room",
+   "n.",
+   "방",
+   "My room is small.",
+   "내 방은 작아."
+  ],
+  [
+   "kitchen",
+   "n.",
+   "부엌",
+   "Mom is in the kitchen.",
+   "엄마는 부엌에 계셔."
+  ],
+  [
+   "bathroom",
+   "n.",
+   "욕실, 화장실",
+   "The bathroom is upstairs.",
+   "화장실은 위층에 있어."
+  ],
+  [
+   "bedroom",
+   "n.",
+   "침실",
+   "I clean my bedroom.",
+   "나는 내 침실을 청소해."
+  ],
+  [
+   "door",
+   "n.",
+   "문",
+   "Please close the door.",
+   "문을 닫아주세요."
+  ],
+  [
+   "window",
+   "n.",
+   "창문",
+   "Open the window.",
+   "창문을 열어라."
+  ],
+  [
+   "table",
+   "n.",
+   "탁자, 식탁",
+   "Put the book on the table.",
+   "책을 탁자 위에 놓아라."
+  ],
+  [
+   "chair",
+   "n.",
+   "의자",
+   "Sit on the chair.",
+   "의자에 앉아라."
+  ],
+  [
+   "bed",
+   "n.",
+   "침대",
+   "I go to bed at ten.",
+   "나는 10시에 자러 가."
+  ]
+ ],
+ "14": [
+  [
+   "clothes",
+   "n.",
+   "옷",
+   "I need new clothes.",
+   "나는 새 옷이 필요해."
+  ],
+  [
+   "shirt",
+   "n.",
+   "셔츠",
+   "He is wearing a white shirt.",
+   "그는 흰 셔츠를 입고 있어."
+  ],
+  [
+   "pants",
+   "n.",
+   "바지",
+   "These pants are too long.",
+   "이 바지는 너무 길어."
+  ],
+  [
+   "shoes",
+   "n.",
+   "신발",
+   "I like these shoes.",
+   "나는 이 신발이 좋아."
+  ],
+  [
+   "hat",
+   "n.",
+   "모자",
+   "She is wearing a hat.",
+   "그녀는 모자를 쓰고 있어."
+  ],
+  [
+   "jacket",
+   "n.",
+   "재킷",
+   "Wear a jacket, it's cold.",
+   "재킷을 입어, 추워."
+  ],
+  [
+   "dress",
+   "n.",
+   "원피스, 드레스",
+   "She bought a new dress.",
+   "그녀는 새 원피스를 샀어."
+  ],
+  [
+   "socks",
+   "n.",
+   "양말",
+   "My socks are wet.",
+   "내 양말이 젖었어."
+  ],
+  [
+   "wear",
+   "v.",
+   "입다, 착용하다",
+   "What should I wear today?",
+   "오늘 뭘 입어야 하지?"
+  ],
+  [
+   "buy",
+   "v.",
+   "사다",
+   "I want to buy a new bag.",
+   "나는 새 가방을 사고 싶어."
+  ]
+ ],
+ "15": [
+  [
+   "car",
+   "n.",
+   "자동차",
+   "We go by car.",
+   "우리는 차를 타고 가."
+  ],
+  [
+   "bus",
+   "n.",
+   "버스",
+   "I take the bus to school.",
+   "나는 버스를 타고 학교에 가."
+  ],
+  [
+   "train",
+   "n.",
+   "기차",
+   "The train is fast.",
+   "기차는 빨라."
+  ],
+  [
+   "bike",
+   "n.",
+   "자전거",
+   "I ride my bike every day.",
+   "나는 매일 자전거를 타."
+  ],
+  [
+   "subway",
+   "n.",
+   "지하철",
+   "The subway is very convenient.",
+   "지하철은 매우 편리해."
+  ],
+  [
+   "airplane",
+   "n.",
+   "비행기",
+   "We took an airplane to Jeju.",
+   "우리는 제주도에 비행기를 타고 갔어."
+  ],
+  [
+   "ship",
+   "n.",
+   "배",
+   "The ship crossed the ocean.",
+   "그 배는 바다를 건넜어."
+  ],
+  [
+   "walk",
+   "v.",
+   "걷다",
+   "I walk to school.",
+   "나는 걸어서 학교에 가."
+  ],
+  [
+   "drive",
+   "v.",
+   "운전하다",
+   "My father drives to work.",
+   "우리 아빠는 운전해서 출근해."
+  ],
+  [
+   "station",
+   "n.",
+   "역",
+   "The bus station is near here.",
+   "버스 정류장은 여기서 가까워."
+  ]
+ ],
+ "16": [
+  [
+   "town",
+   "n.",
+   "마을, 동네",
+   "I live in a small town.",
+   "나는 작은 마을에 살아."
+  ],
+  [
+   "city",
+   "n.",
+   "도시",
+   "Seoul is a big city.",
+   "서울은 큰 도시야."
+  ],
+  [
+   "street",
+   "n.",
+   "거리",
+   "Cross the street carefully.",
+   "조심해서 길을 건너."
+  ],
+  [
+   "park",
+   "n.",
+   "공원",
+   "We play in the park.",
+   "우리는 공원에서 놀아."
+  ],
+  [
+   "store",
+   "n.",
+   "가게",
+   "The store is open now.",
+   "가게는 지금 열려 있어."
+  ],
+  [
+   "restaurant",
+   "n.",
+   "식당",
+   "Let's eat at a restaurant.",
+   "식당에서 먹자."
+  ],
+  [
+   "library",
+   "n.",
+   "도서관",
+   "I study at the library.",
+   "나는 도서관에서 공부해."
+  ],
+  [
+   "bank",
+   "n.",
+   "은행",
+   "My mom works at a bank.",
+   "우리 엄마는 은행에서 일해."
+  ],
+  [
+   "market",
+   "n.",
+   "시장",
+   "We buy food at the market.",
+   "우리는 시장에서 음식을 사."
+  ],
+  [
+   "building",
+   "n.",
+   "건물",
+   "That building is very tall.",
+   "저 건물은 매우 높아."
+  ]
+ ],
+ "17": [
+  [
+   "job",
+   "n.",
+   "직업",
+   "What is your job?",
+   "당신의 직업은 뭐예요?"
+  ],
+  [
+   "work",
+   "v./n.",
+   "일하다; 일",
+   "I work every day.",
+   "나는 매일 일해."
+  ],
+  [
+   "nurse",
+   "n.",
+   "간호사",
+   "The nurse helps patients.",
+   "간호사는 환자를 도와줘."
+  ],
+  [
+   "police officer",
+   "n.",
+   "경찰관",
+   "The police officer is very brave.",
+   "경찰관은 매우 용감해."
+  ],
+  [
+   "firefighter",
+   "n.",
+   "소방관",
+   "The firefighter saved the cat.",
+   "소방관이 고양이를 구했어."
+  ],
+  [
+   "cook",
+   "n./v.",
+   "요리사; 요리하다",
+   "My father is a good cook.",
+   "우리 아빠는 요리를 잘 해."
+  ],
+  [
+   "singer",
+   "n.",
+   "가수",
+   "She wants to be a singer.",
+   "그녀는 가수가 되고 싶어해."
+  ],
+  [
+   "farmer",
+   "n.",
+   "농부",
+   "The farmer grows rice.",
+   "농부는 쌀을 재배해."
+  ],
+  [
+   "pilot",
+   "n.",
+   "조종사",
+   "The pilot flies the airplane.",
+   "조종사는 비행기를 조종해."
+  ],
+  [
+   "dream",
+   "n.",
+   "꿈",
+   "What is your dream job?",
+   "네 꿈의 직업은 뭐야?"
+  ]
+ ],
+ "18": [
+  [
+   "nature",
+   "n.",
+   "자연",
+   "I love nature.",
+   "나는 자연을 사랑해."
+  ],
+  [
+   "tree",
+   "n.",
+   "나무",
+   "There is a big tree in the yard.",
+   "마당에 큰 나무가 있어."
+  ],
+  [
+   "flower",
+   "n.",
+   "꽃",
+   "The flowers are beautiful.",
+   "꽃들이 아름다워."
+  ],
+  [
+   "mountain",
+   "n.",
+   "산",
+   "We climbed the mountain.",
+   "우리는 그 산을 올랐어."
+  ],
+  [
+   "river",
+   "n.",
+   "강",
+   "A river flows through the city.",
+   "강이 도시를 가로질러 흘러."
+  ],
+  [
+   "sea",
+   "n.",
+   "바다",
+   "I want to swim in the sea.",
+   "나는 바다에서 수영하고 싶어."
+  ],
+  [
+   "sky",
+   "n.",
+   "하늘",
+   "The sky is clear today.",
+   "오늘 하늘이 맑아."
+  ],
+  [
+   "star",
+   "n.",
+   "별",
+   "I can see many stars.",
+   "별이 많이 보여."
+  ],
+  [
+   "sun",
+   "n.",
+   "해, 태양",
+   "The sun rises in the east.",
+   "해는 동쪽에서 뜬다."
+  ],
+  [
+   "moon",
+   "n.",
+   "달",
+   "The moon is bright tonight.",
+   "오늘 밤 달이 밝아."
+  ]
+ ],
+ "19": [
+  [
+   "computer",
+   "n.",
+   "컴퓨터",
+   "I use a computer for homework.",
+   "나는 숙제를 위해 컴퓨터를 사용해."
+  ],
+  [
+   "phone",
+   "n.",
+   "전화기",
+   "Can I use your phone?",
+   "네 전화기 좀 써도 될까?"
+  ],
+  [
+   "internet",
+   "n.",
+   "인터넷",
+   "I search the internet.",
+   "나는 인터넷을 검색해."
+  ],
+  [
+   "video",
+   "n.",
+   "영상",
+   "I watch videos online.",
+   "나는 온라인으로 영상을 봐."
+  ],
+  [
+   "picture",
+   "n.",
+   "사진, 그림",
+   "Let's take a picture.",
+   "사진 찍자."
+  ],
+  [
+   "camera",
+   "n.",
+   "카메라",
+   "She has a new camera.",
+   "그녀는 새 카메라가 있어."
+  ],
+  [
+   "message",
+   "n.",
+   "메시지",
+   "I sent you a message.",
+   "너에게 메시지를 보냈어."
+  ],
+  [
+   "call",
+   "v./n.",
+   "전화하다; 전화",
+   "I'll call you later.",
+   "나중에 전화할게."
+  ],
+  [
+   "watch",
+   "v.",
+   "보다, 시청하다",
+   "I watch TV after dinner.",
+   "나는 저녁 먹고 TV를 봐."
+  ],
+  [
+   "use",
+   "v.",
+   "사용하다",
+   "How do I use this app?",
+   "이 앱을 어떻게 사용해?"
+  ]
+ ],
+ "20": [
+  [
+   "money",
+   "n.",
+   "돈",
+   "I don't have much money.",
+   "나는 돈이 많지 않아."
+  ],
+  [
+   "price",
+   "n.",
+   "가격",
+   "The price is too high.",
+   "가격이 너무 비싸."
+  ],
+  [
+   "cheap",
+   "a.",
+   "싼",
+   "This shirt is cheap.",
+   "이 셔츠는 싸다."
+  ],
+  [
+   "expensive",
+   "a.",
+   "비싼",
+   "That bag is expensive.",
+   "그 가방은 비싸."
+  ],
+  [
+   "sell",
+   "v.",
+   "팔다",
+   "They sell fresh fruit here.",
+   "여기서 신선한 과일을 팔아."
+  ],
+  [
+   "pay",
+   "v.",
+   "지불하다",
+   "I will pay for the coffee.",
+   "내가 커피값을 낼게."
+  ],
+  [
+   "gift",
+   "n.",
+   "선물",
+   "This is a gift for you.",
+   "이건 너를 위한 선물이야."
+  ],
+  [
+   "bag",
+   "n.",
+   "가방",
+   "I need a new bag.",
+   "나는 새 가방이 필요해."
+  ],
+  [
+   "wallet",
+   "n.",
+   "지갑",
+   "I lost my wallet.",
+   "나는 지갑을 잃어버렸어."
+  ],
+  [
+   "choose",
+   "v.",
+   "고르다, 선택하다",
+   "Choose one color.",
+   "색깔 하나를 골라."
+  ]
+ ],
+ "21": [
+  [
+   "go",
+   "v.",
+   "가다",
+   "I go to school every day.",
+   "나는 매일 학교에 가."
+  ],
+  [
+   "come",
+   "v.",
+   "오다",
+   "Come here, please.",
+   "이리 와줘."
+  ],
+  [
+   "see",
+   "v.",
+   "보다",
+   "I can see the mountain.",
+   "산이 보여."
+  ],
+  [
+   "look",
+   "v.",
+   "보다, 쳐다보다",
+   "Look at this picture.",
+   "이 사진을 봐."
+  ],
+  [
+   "make",
+   "v.",
+   "만들다",
+   "Let's make cookies.",
+   "쿠키를 만들자."
+  ],
+  [
+   "give",
+   "v.",
+   "주다",
+   "Give me your hand.",
+   "손을 줘."
+  ],
+  [
+   "take",
+   "v.",
+   "가져가다, 잡다",
+   "Take an umbrella with you.",
+   "우산을 가지고 가."
+  ],
+  [
+   "put",
+   "v.",
+   "놓다, 두다",
+   "Put your bag here.",
+   "여기에 가방을 놓아."
+  ],
+  [
+   "find",
+   "v.",
+   "찾다",
+   "I can't find my keys.",
+   "열쇠를 못 찾겠어."
+  ],
+  [
+   "help",
+   "v.",
+   "돕다",
+   "Can you help me?",
+   "나를 도와줄 수 있어?"
+  ]
+ ],
+ "22": [
+  [
+   "know",
+   "v.",
+   "알다",
+   "I know the answer.",
+   "나는 답을 알아."
+  ],
+  [
+   "think",
+   "v.",
+   "생각하다",
+   "I think it's a good idea.",
+   "나는 그게 좋은 생각이라고 생각해."
+  ],
+  [
+   "want",
+   "v.",
+   "원하다",
+   "I want some water.",
+   "나는 물이 좀 필요해."
+  ],
+  [
+   "need",
+   "v.",
+   "필요하다",
+   "You need more rest.",
+   "너는 더 많은 휴식이 필요해."
+  ],
+  [
+   "like",
+   "v.",
+   "좋아하다",
+   "I like pizza a lot.",
+   "나는 피자를 정말 좋아해."
+  ],
+  [
+   "love",
+   "v.",
+   "사랑하다, 아주 좋아하다",
+   "I love my family.",
+   "나는 우리 가족을 사랑해."
+  ],
+  [
+   "feel",
+   "v.",
+   "느끼다",
+   "I feel great today.",
+   "나는 오늘 기분이 좋아."
+  ],
+  [
+   "try",
+   "v.",
+   "시도하다, 노력하다",
+   "Try your best.",
+   "최선을 다해."
+  ],
+  [
+   "start",
+   "v.",
+   "시작하다",
+   "The movie starts at seven.",
+   "영화는 7시에 시작해."
+  ],
+  [
+   "finish",
+   "v.",
+   "끝내다",
+   "I finished my homework.",
+   "나는 숙제를 끝냈어."
+  ]
+ ],
+ "23": [
+  [
+   "big",
+   "a.",
+   "큰",
+   "This is a big house.",
+   "이것은 큰 집이야."
+  ],
+  [
+   "small",
+   "a.",
+   "작은",
+   "The mouse is small.",
+   "그 쥐는 작아."
+  ],
+  [
+   "long",
+   "a.",
+   "긴",
+   "She has long hair.",
+   "그녀는 머리가 길어."
+  ],
+  [
+   "short",
+   "a.",
+   "짧은, 키가 작은",
+   "He is short.",
+   "그는 키가 작아."
+  ],
+  [
+   "fast",
+   "a.",
+   "빠른",
+   "The car is very fast.",
+   "그 차는 매우 빨라."
+  ],
+  [
+   "slow",
+   "a.",
+   "느린",
+   "The turtle is slow.",
+   "거북이는 느려."
+  ],
+  [
+   "easy",
+   "a.",
+   "쉬운",
+   "This test is easy.",
+   "이 시험은 쉬워."
+  ],
+  [
+   "difficult",
+   "a.",
+   "어려운",
+   "Math is difficult for me.",
+   "수학은 나에게 어려워."
+  ],
+  [
+   "new",
+   "a.",
+   "새로운",
+   "I got a new phone.",
+   "나는 새 전화기를 얻었어."
+  ],
+  [
+   "old",
+   "a.",
+   "오래된, 나이든",
+   "This building is very old.",
+   "이 건물은 매우 오래됐어."
+  ]
+ ],
+ "24": [
+  [
+   "in",
+   "prep.",
+   "~안에",
+   "The cat is in the box.",
+   "고양이가 상자 안에 있어."
+  ],
+  [
+   "on",
+   "prep.",
+   "~위에",
+   "The book is on the desk.",
+   "책이 책상 위에 있어."
+  ],
+  [
+   "under",
+   "prep.",
+   "~아래에",
+   "The dog is under the table.",
+   "개가 탁자 아래에 있어."
+  ],
+  [
+   "next to",
+   "prep.",
+   "~옆에",
+   "Sit next to me.",
+   "내 옆에 앉아."
+  ],
+  [
+   "between",
+   "prep.",
+   "~사이에",
+   "The park is between the school and my house.",
+   "공원은 학교와 우리 집 사이에 있어."
+  ],
+  [
+   "left",
+   "n./a.",
+   "왼쪽(의)",
+   "Turn left at the corner.",
+   "모퉁이에서 왼쪽으로 돌아."
+  ],
+  [
+   "right",
+   "n./a.",
+   "오른쪽(의)",
+   "Turn right here.",
+   "여기서 오른쪽으로 돌아."
+  ],
+  [
+   "straight",
+   "adv.",
+   "곧장, 똑바로",
+   "Go straight ahead.",
+   "곧장 앞으로 가."
+  ],
+  [
+   "up",
+   "adv./prep.",
+   "위로",
+   "Look up at the sky.",
+   "하늘을 올려다봐."
+  ],
+  [
+   "down",
+   "adv./prep.",
+   "아래로",
+   "Sit down, please.",
+   "앉아 주세요."
+  ]
+ ],
+ "25": [
+  [
+   "Monday",
+   "n.",
+   "월요일",
+   "I have a test on Monday.",
+   "나는 월요일에 시험이 있어."
+  ],
+  [
+   "Friday",
+   "n.",
+   "금요일",
+   "I love Fridays.",
+   "나는 금요일을 좋아해."
+  ],
+  [
+   "weekend",
+   "n.",
+   "주말",
+   "See you on the weekend.",
+   "주말에 보자."
+  ],
+  [
+   "January",
+   "n.",
+   "1월",
+   "My birthday is in January.",
+   "내 생일은 1월이야."
+  ],
+  [
+   "December",
+   "n.",
+   "12월",
+   "It's cold in December.",
+   "12월에는 추워."
+  ],
+  [
+   "month",
+   "n.",
+   "달, 월",
+   "This month is very busy.",
+   "이번 달은 매우 바빠."
+  ],
+  [
+   "year",
+   "n.",
+   "해, 년",
+   "I am twelve years old.",
+   "나는 열두 살이야."
+  ],
+  [
+   "week",
+   "n.",
+   "주",
+   "I see her twice a week.",
+   "나는 그녀를 일주일에 두 번 봐."
+  ],
+  [
+   "birthday",
+   "n.",
+   "생일",
+   "Happy birthday to you!",
+   "생일 축하해!"
+  ],
+  [
+   "holiday",
+   "n.",
+   "휴일, 방학",
+   "Summer holiday is coming soon.",
+   "여름 방학이 곧 다가와."
+  ]
+ ],
+ "26": [
+  [
+   "travel",
+   "v./n.",
+   "여행하다; 여행",
+   "I want to travel to Europe.",
+   "나는 유럽으로 여행 가고 싶어."
+  ],
+  [
+   "trip",
+   "n.",
+   "여행",
+   "We had a great trip.",
+   "우리는 멋진 여행을 했어."
+  ],
+  [
+   "country",
+   "n.",
+   "나라",
+   "Korea is a beautiful country.",
+   "한국은 아름다운 나라야."
+  ],
+  [
+   "abroad",
+   "adv.",
+   "해외로",
+   "She lives abroad.",
+   "그녀는 해외에 살아."
+  ],
+  [
+   "map",
+   "n.",
+   "지도",
+   "Look at the map.",
+   "지도를 봐."
+  ],
+  [
+   "hotel",
+   "n.",
+   "호텔",
+   "We stayed at a nice hotel.",
+   "우리는 좋은 호텔에 머물렀어."
+  ],
+  [
+   "suitcase",
+   "n.",
+   "여행 가방",
+   "Pack your suitcase.",
+   "여행 가방을 싸."
+  ],
+  [
+   "ticket",
+   "n.",
+   "표, 티켓",
+   "I bought two tickets.",
+   "나는 표를 두 장 샀어."
+  ],
+  [
+   "passport",
+   "n.",
+   "여권",
+   "Don't forget your passport.",
+   "여권을 잊지 마."
+  ],
+  [
+   "visit",
+   "v.",
+   "방문하다",
+   "I want to visit Jeju Island.",
+   "나는 제주도를 방문하고 싶어."
+  ]
+ ],
+ "27": [
+  [
+   "talk",
+   "v.",
+   "이야기하다",
+   "Let's talk about it.",
+   "그것에 대해 이야기하자."
+  ],
+  [
+   "speak",
+   "v.",
+   "말하다",
+   "She can speak English well.",
+   "그녀는 영어를 잘 말할 수 있어."
+  ],
+  [
+   "tell",
+   "v.",
+   "말해주다",
+   "Tell me the truth.",
+   "나에게 진실을 말해줘."
+  ],
+  [
+   "ask",
+   "v.",
+   "물어보다",
+   "Can I ask you a question?",
+   "질문 하나 해도 될까?"
+  ],
+  [
+   "answer",
+   "v./n.",
+   "대답하다; 대답",
+   "Please answer my question.",
+   "내 질문에 대답해줘."
+  ],
+  [
+   "listen",
+   "v.",
+   "듣다",
+   "Listen to me carefully.",
+   "내 말을 잘 들어."
+  ],
+  [
+   "write",
+   "v.",
+   "쓰다",
+   "Write your name here.",
+   "여기에 네 이름을 써."
+  ],
+  [
+   "read",
+   "v.",
+   "읽다",
+   "I read a story every night.",
+   "나는 매일 밤 이야기를 읽어."
+  ],
+  [
+   "letter",
+   "n.",
+   "편지",
+   "I wrote a letter to my friend.",
+   "나는 친구에게 편지를 썼어."
+  ],
+  [
+   "voice",
+   "n.",
+   "목소리",
+   "She has a beautiful voice.",
+   "그녀는 아름다운 목소리를 가지고 있어."
+  ]
+ ],
+ "28": [
+  [
+   "glad",
+   "a.",
+   "기쁜",
+   "I'm glad to see you.",
+   "너를 만나서 기뻐."
+  ],
+  [
+   "lonely",
+   "a.",
+   "외로운",
+   "He feels lonely sometimes.",
+   "그는 가끔 외로움을 느껴."
+  ],
+  [
+   "nervous",
+   "a.",
+   "긴장한",
+   "I'm nervous about the test.",
+   "나는 시험이 긴장돼."
+  ],
+  [
+   "calm",
+   "a.",
+   "침착한, 차분한",
+   "Stay calm.",
+   "침착해."
+  ],
+  [
+   "brave",
+   "a.",
+   "용감한",
+   "The firefighter is very brave.",
+   "소방관은 매우 용감해."
+  ],
+  [
+   "shy",
+   "a.",
+   "수줍은",
+   "She is shy at first.",
+   "그녀는 처음에는 수줍어해."
+  ],
+  [
+   "friendly",
+   "a.",
+   "친절한, 다정한",
+   "My neighbor is very friendly.",
+   "우리 이웃은 매우 친절해."
+  ],
+  [
+   "funny",
+   "a.",
+   "웃긴, 재미있는",
+   "This movie is really funny.",
+   "이 영화는 정말 웃겨."
+  ],
+  [
+   "curious",
+   "a.",
+   "호기심 많은",
+   "Children are curious about everything.",
+   "아이들은 모든 것에 호기심이 많아."
+  ],
+  [
+   "lucky",
+   "a.",
+   "운이 좋은",
+   "I feel lucky today.",
+   "나는 오늘 운이 좋다고 느껴."
+  ]
+ ],
+ "29": [
+  [
+   "math",
+   "n.",
+   "수학",
+   "Math is my favorite subject.",
+   "수학은 내가 가장 좋아하는 과목이야."
+  ],
+  [
+   "science",
+   "n.",
+   "과학",
+   "We do experiments in science class.",
+   "우리는 과학 시간에 실험을 해."
+  ],
+  [
+   "history",
+   "n.",
+   "역사",
+   "History class is interesting.",
+   "역사 수업은 흥미로워."
+  ],
+  [
+   "music",
+   "n.",
+   "음악",
+   "I play music every day.",
+   "나는 매일 음악을 연주해."
+  ],
+  [
+   "art",
+   "n.",
+   "미술",
+   "I love art class.",
+   "나는 미술 수업을 좋아해."
+  ],
+  [
+   "English",
+   "n.",
+   "영어",
+   "I study English every day.",
+   "나는 매일 영어를 공부해."
+  ],
+  [
+   "subject",
+   "n.",
+   "과목",
+   "What is your favorite subject?",
+   "네가 가장 좋아하는 과목이 뭐야?"
+  ],
+  [
+   "lesson",
+   "n.",
+   "수업",
+   "Today's lesson was fun.",
+   "오늘 수업은 재미있었어."
+  ],
+  [
+   "exam",
+   "n.",
+   "시험",
+   "The exam is next week.",
+   "시험은 다음 주야."
+  ],
+  [
+   "grade",
+   "n.",
+   "성적, 학년",
+   "She got a good grade.",
+   "그녀는 좋은 성적을 받았어."
+  ]
+ ],
+ "30": [
+  [
+   "always",
+   "adv.",
+   "항상",
+   "I always wake up early.",
+   "나는 항상 일찍 일어나."
+  ],
+  [
+   "usually",
+   "adv.",
+   "보통, 대개",
+   "I usually walk to school.",
+   "나는 보통 걸어서 학교에 가."
+  ],
+  [
+   "sometimes",
+   "adv.",
+   "가끔",
+   "Sometimes I watch movies.",
+   "가끔 나는 영화를 봐."
+  ],
+  [
+   "never",
+   "adv.",
+   "결코 ~않다",
+   "I never eat breakfast.",
+   "나는 절대 아침을 먹지 않아."
+  ],
+  [
+   "together",
+   "adv.",
+   "함께",
+   "Let's study together.",
+   "같이 공부하자."
+  ],
+  [
+   "also",
+   "adv.",
+   "또한",
+   "She is also my friend.",
+   "그녀도 내 친구야."
+  ],
+  [
+   "really",
+   "adv.",
+   "정말로",
+   "I really like you.",
+   "나는 너를 정말 좋아해."
+  ],
+  [
+   "maybe",
+   "adv.",
+   "아마도",
+   "Maybe I will go too.",
+   "아마 나도 갈 거야."
+  ],
+  [
+   "remember",
+   "v.",
+   "기억하다",
+   "Remember to call me.",
+   "나에게 전화하는 것 기억해."
+  ],
+  [
+   "forget",
+   "v.",
+   "잊다",
+   "Don't forget your umbrella.",
+   "우산을 잊지 마."
+  ]
+ ]
+}
