@@ -1,0 +1,2162 @@
+{
+ "1": [
+  [
+   "confident",
+   "a.",
+   "자신감 있는",
+   "She is confident about her presentation.",
+   "그녀는 발표에 대해 자신감이 있어."
+  ],
+  [
+   "embarrassed",
+   "a.",
+   "당황한, 창피한",
+   "I felt embarrassed when I fell down.",
+   "나는 넘어졌을 때 창피했어."
+  ],
+  [
+   "disappointed",
+   "a.",
+   "실망한",
+   "He was disappointed with his test score.",
+   "그는 시험 점수에 실망했어."
+  ],
+  [
+   "jealous",
+   "a.",
+   "질투하는",
+   "She felt jealous of her sister.",
+   "그녀는 언니를 질투했어."
+  ],
+  [
+   "generous",
+   "a.",
+   "관대한, 후한",
+   "My uncle is very generous.",
+   "우리 삼촌은 매우 관대해."
+  ],
+  [
+   "honest",
+   "a.",
+   "정직한",
+   "Please be honest with me.",
+   "나에게 정직하게 말해줘."
+  ],
+  [
+   "polite",
+   "a.",
+   "예의 바른",
+   "He is always polite to strangers.",
+   "그는 낯선 사람에게도 항상 예의 바르다."
+  ],
+  [
+   "stubborn",
+   "a.",
+   "고집 센",
+   "My little brother is very stubborn.",
+   "내 남동생은 매우 고집이 세."
+  ],
+  [
+   "patient",
+   "a.",
+   "인내심 있는",
+   "You need to be patient with children.",
+   "아이들에게는 인내심을 가져야 해."
+  ],
+  [
+   "active",
+   "a.",
+   "활동적인",
+   "She is an active member of the club.",
+   "그녀는 그 동아리의 활동적인 회원이야."
+  ]
+ ],
+ "2": [
+  [
+   "improve",
+   "v.",
+   "향상시키다",
+   "I want to improve my English.",
+   "나는 내 영어 실력을 향상시키고 싶어."
+  ],
+  [
+   "focus",
+   "v./n.",
+   "집중하다; 초점",
+   "Focus on your homework.",
+   "숙제에 집중해."
+  ],
+  [
+   "explain",
+   "v.",
+   "설명하다",
+   "Can you explain this question?",
+   "이 문제 설명해 줄 수 있어?"
+  ],
+  [
+   "understand",
+   "v.",
+   "이해하다",
+   "I don't understand this word.",
+   "나는 이 단어를 이해하지 못하겠어."
+  ],
+  [
+   "prepare",
+   "v.",
+   "준비하다",
+   "We need to prepare for the exam.",
+   "우리는 시험을 준비해야 해."
+  ],
+  [
+   "practice",
+   "v./n.",
+   "연습하다; 연습",
+   "Practice makes perfect.",
+   "연습이 완벽을 만든다."
+  ],
+  [
+   "achieve",
+   "v.",
+   "성취하다",
+   "She achieved her goal.",
+   "그녀는 목표를 성취했어."
+  ],
+  [
+   "succeed",
+   "v.",
+   "성공하다",
+   "He worked hard to succeed.",
+   "그는 성공하기 위해 열심히 일했어."
+  ],
+  [
+   "fail",
+   "v.",
+   "실패하다",
+   "Don't be afraid to fail.",
+   "실패하는 것을 두려워하지 마."
+  ],
+  [
+   "review",
+   "v./n.",
+   "복습하다; 복습",
+   "I review my notes every night.",
+   "나는 매일 밤 필기를 복습해."
+  ]
+ ],
+ "3": [
+  [
+   "communicate",
+   "v.",
+   "의사소통하다",
+   "We communicate by text messages.",
+   "우리는 문자 메시지로 소통해."
+  ],
+  [
+   "express",
+   "v.",
+   "표현하다",
+   "It's hard to express my feelings.",
+   "내 감정을 표현하기가 어려워."
+  ],
+  [
+   "suggest",
+   "v.",
+   "제안하다",
+   "I suggest we take a break.",
+   "나는 우리가 쉬는 것을 제안해."
+  ],
+  [
+   "agree",
+   "v.",
+   "동의하다",
+   "I agree with your opinion.",
+   "나는 네 의견에 동의해."
+  ],
+  [
+   "disagree",
+   "v.",
+   "동의하지 않다",
+   "I disagree with that plan.",
+   "나는 그 계획에 동의하지 않아."
+  ],
+  [
+   "discuss",
+   "v.",
+   "논의하다",
+   "Let's discuss this problem.",
+   "이 문제에 대해 논의하자."
+  ],
+  [
+   "argue",
+   "v.",
+   "다투다, 주장하다",
+   "They often argue about small things.",
+   "그들은 사소한 일로 자주 다퉈."
+  ],
+  [
+   "apologize",
+   "v.",
+   "사과하다",
+   "He apologized for being late.",
+   "그는 늦은 것에 대해 사과했어."
+  ],
+  [
+   "complain",
+   "v.",
+   "불평하다",
+   "Stop complaining about the weather.",
+   "날씨에 대해 그만 불평해."
+  ],
+  [
+   "encourage",
+   "v.",
+   "격려하다",
+   "My teacher always encourages me.",
+   "우리 선생님은 항상 나를 격려해 주셔."
+  ]
+ ],
+ "4": [
+  [
+   "society",
+   "n.",
+   "사회",
+   "We live in a modern society.",
+   "우리는 현대 사회에 살고 있어."
+  ],
+  [
+   "community",
+   "n.",
+   "공동체, 지역사회",
+   "Our community is very friendly.",
+   "우리 지역사회는 매우 친절해."
+  ],
+  [
+   "citizen",
+   "n.",
+   "시민",
+   "Every citizen has rights.",
+   "모든 시민은 권리를 가지고 있어."
+  ],
+  [
+   "government",
+   "n.",
+   "정부",
+   "The government made a new law.",
+   "정부는 새로운 법을 만들었어."
+  ],
+  [
+   "rule",
+   "n.",
+   "규칙",
+   "We must follow the rules.",
+   "우리는 규칙을 따라야 해."
+  ],
+  [
+   "law",
+   "n.",
+   "법",
+   "This law protects children.",
+   "이 법은 아이들을 보호해."
+  ],
+  [
+   "freedom",
+   "n.",
+   "자유",
+   "Everyone deserves freedom of speech.",
+   "모든 사람은 표현의 자유를 누릴 자격이 있어."
+  ],
+  [
+   "responsibility",
+   "n.",
+   "책임",
+   "Taking care of pets is a big responsibility.",
+   "반려동물을 돌보는 것은 큰 책임이야."
+  ],
+  [
+   "volunteer",
+   "v./n.",
+   "자원봉사하다; 자원봉사자",
+   "I volunteer at the animal shelter.",
+   "나는 동물 보호소에서 자원봉사를 해."
+  ],
+  [
+   "donate",
+   "v.",
+   "기부하다",
+   "They donated money to the poor.",
+   "그들은 가난한 사람들에게 돈을 기부했어."
+  ]
+ ],
+ "5": [
+  [
+   "environment",
+   "n.",
+   "환경",
+   "We should protect the environment.",
+   "우리는 환경을 보호해야 해."
+  ],
+  [
+   "pollution",
+   "n.",
+   "오염",
+   "Air pollution is a serious problem.",
+   "대기 오염은 심각한 문제야."
+  ],
+  [
+   "recycle",
+   "v.",
+   "재활용하다",
+   "We recycle paper and bottles.",
+   "우리는 종이와 병을 재활용해."
+  ],
+  [
+   "protect",
+   "v.",
+   "보호하다",
+   "We need to protect endangered animals.",
+   "우리는 멸종 위기 동물을 보호해야 해."
+  ],
+  [
+   "waste",
+   "n./v.",
+   "쓰레기, 낭비; 낭비하다",
+   "Don't waste your time.",
+   "네 시간을 낭비하지 마."
+  ],
+  [
+   "save",
+   "v.",
+   "절약하다, 구하다",
+   "Turn off the lights to save energy.",
+   "에너지를 절약하려면 불을 꺼."
+  ],
+  [
+   "energy",
+   "n.",
+   "에너지",
+   "Solar energy is clean and renewable.",
+   "태양 에너지는 깨끗하고 재생 가능해."
+  ],
+  [
+   "resource",
+   "n.",
+   "자원",
+   "Water is a precious resource.",
+   "물은 소중한 자원이야."
+  ],
+  [
+   "climate",
+   "n.",
+   "기후",
+   "Climate change affects the whole world.",
+   "기후 변화는 전 세계에 영향을 미쳐."
+  ],
+  [
+   "disaster",
+   "n.",
+   "재난, 재해",
+   "The flood was a natural disaster.",
+   "그 홍수는 자연재해였어."
+  ]
+ ],
+ "6": [
+  [
+   "invent",
+   "v.",
+   "발명하다",
+   "Who invented the telephone?",
+   "누가 전화기를 발명했어?"
+  ],
+  [
+   "discover",
+   "v.",
+   "발견하다",
+   "Scientists discovered a new planet.",
+   "과학자들은 새로운 행성을 발견했어."
+  ],
+  [
+   "experiment",
+   "n./v.",
+   "실험; 실험하다",
+   "We did an experiment in science class.",
+   "우리는 과학 시간에 실험을 했어."
+  ],
+  [
+   "research",
+   "n./v.",
+   "연구; 연구하다",
+   "She is doing research on climate change.",
+   "그녀는 기후 변화에 대해 연구하고 있어."
+  ],
+  [
+   "explore",
+   "v.",
+   "탐구하다, 탐험하다",
+   "Let's explore the old castle.",
+   "그 오래된 성을 탐험해 보자."
+  ],
+  [
+   "develop",
+   "v.",
+   "개발하다, 발전시키다",
+   "The company developed a new app.",
+   "그 회사는 새로운 앱을 개발했어."
+  ],
+  [
+   "technology",
+   "n.",
+   "기술",
+   "Technology changes our lives quickly.",
+   "기술은 우리의 삶을 빠르게 바꿔."
+  ],
+  [
+   "machine",
+   "n.",
+   "기계",
+   "This machine washes dishes.",
+   "이 기계는 설거지를 해."
+  ],
+  [
+   "device",
+   "n.",
+   "기기, 장치",
+   "I have many electronic devices.",
+   "나는 전자 기기가 많이 있어."
+  ],
+  [
+   "progress",
+   "n./v.",
+   "발전, 진전; 발전하다",
+   "We made great progress this year.",
+   "우리는 올해 큰 발전을 이루었어."
+  ]
+ ],
+ "7": [
+  [
+   "disease",
+   "n.",
+   "질병",
+   "Doctors are studying the new disease.",
+   "의사들은 그 새로운 질병을 연구하고 있어."
+  ],
+  [
+   "symptom",
+   "n.",
+   "증상",
+   "A fever is a common symptom.",
+   "열은 흔한 증상이야."
+  ],
+  [
+   "treatment",
+   "n.",
+   "치료",
+   "The treatment worked well.",
+   "그 치료는 효과가 좋았어."
+  ],
+  [
+   "medicine",
+   "n.",
+   "약",
+   "Take this medicine after meals.",
+   "이 약은 식후에 먹어."
+  ],
+  [
+   "exercise",
+   "v./n.",
+   "운동하다; 운동",
+   "I exercise every morning.",
+   "나는 매일 아침 운동을 해."
+  ],
+  [
+   "diet",
+   "n.",
+   "식단",
+   "A healthy diet is important.",
+   "건강한 식단은 중요해."
+  ],
+  [
+   "injury",
+   "n.",
+   "부상",
+   "He recovered from his injury.",
+   "그는 부상에서 회복했어."
+  ],
+  [
+   "prevent",
+   "v.",
+   "예방하다",
+   "Washing hands can prevent disease.",
+   "손을 씻으면 질병을 예방할 수 있어."
+  ],
+  [
+   "recover",
+   "v.",
+   "회복하다",
+   "She recovered quickly after surgery.",
+   "그녀는 수술 후 빨리 회복했어."
+  ],
+  [
+   "anxiety",
+   "n.",
+   "불안",
+   "Too much anxiety is bad for your health.",
+   "과도한 불안은 건강에 나빠."
+  ]
+ ],
+ "8": [
+  [
+   "culture",
+   "n.",
+   "문화",
+   "I'm interested in Korean culture.",
+   "나는 한국 문화에 관심이 있어."
+  ],
+  [
+   "tradition",
+   "n.",
+   "전통",
+   "This festival is an old tradition.",
+   "이 축제는 오래된 전통이야."
+  ],
+  [
+   "custom",
+   "n.",
+   "관습",
+   "Every country has its own customs.",
+   "모든 나라는 자신만의 관습이 있어."
+  ],
+  [
+   "festival",
+   "n.",
+   "축제",
+   "The music festival was amazing.",
+   "그 음악 축제는 굉장했어."
+  ],
+  [
+   "ceremony",
+   "n.",
+   "의식, 예식",
+   "We attended the graduation ceremony.",
+   "우리는 졸업식에 참석했어."
+  ],
+  [
+   "celebrate",
+   "v.",
+   "기념하다, 축하하다",
+   "We celebrate his birthday every year.",
+   "우리는 매년 그의 생일을 축하해."
+  ],
+  [
+   "religion",
+   "n.",
+   "종교",
+   "People have different religions.",
+   "사람들은 다양한 종교를 가지고 있어."
+  ],
+  [
+   "generation",
+   "n.",
+   "세대",
+   "This song is popular across generations.",
+   "이 노래는 세대를 넘나들며 인기가 있어."
+  ],
+  [
+   "modern",
+   "a.",
+   "현대의",
+   "The museum has modern art.",
+   "그 박물관에는 현대 미술이 있어."
+  ],
+  [
+   "ancient",
+   "a.",
+   "고대의",
+   "They found an ancient temple.",
+   "그들은 고대 사원을 발견했어."
+  ]
+ ],
+ "9": [
+  [
+   "experience",
+   "n./v.",
+   "경험; 경험하다",
+   "Traveling is a great experience.",
+   "여행은 좋은 경험이야."
+  ],
+  [
+   "adventure",
+   "n.",
+   "모험",
+   "We had an exciting adventure in the forest.",
+   "우리는 숲에서 신나는 모험을 했어."
+  ],
+  [
+   "journey",
+   "n.",
+   "여정",
+   "It was a long journey home.",
+   "집으로 가는 긴 여정이었어."
+  ],
+  [
+   "destination",
+   "n.",
+   "목적지",
+   "Paris is our final destination.",
+   "파리가 우리의 최종 목적지야."
+  ],
+  [
+   "local",
+   "a.",
+   "현지의, 지역의",
+   "We tried some local food.",
+   "우리는 현지 음식을 먹어봤어."
+  ],
+  [
+   "foreign",
+   "a.",
+   "외국의",
+   "She can speak three foreign languages.",
+   "그녀는 세 개의 외국어를 할 수 있어."
+  ],
+  [
+   "souvenir",
+   "n.",
+   "기념품",
+   "I bought a souvenir for my friend.",
+   "나는 친구를 위해 기념품을 샀어."
+  ],
+  [
+   "tour",
+   "n./v.",
+   "관광; 관광하다",
+   "We went on a city tour.",
+   "우리는 도시 관광을 갔어."
+  ],
+  [
+   "guide",
+   "n./v.",
+   "안내자, 가이드; 안내하다",
+   "The guide showed us around the palace.",
+   "가이드가 우리에게 궁전을 안내해줬어."
+  ],
+  [
+   "landmark",
+   "n.",
+   "랜드마크, 명소",
+   "The tower is a famous landmark.",
+   "그 탑은 유명한 명소야."
+  ]
+ ],
+ "10": [
+  [
+   "signal",
+   "n.",
+   "신호",
+   "The phone signal is weak here.",
+   "여기는 휴대폰 신호가 약해."
+  ],
+  [
+   "wireless",
+   "a.",
+   "무선의",
+   "I use a wireless keyboard.",
+   "나는 무선 키보드를 사용해."
+  ],
+  [
+   "connect",
+   "v.",
+   "연결하다",
+   "Connect your phone to the Wi-Fi.",
+   "휴대폰을 와이파이에 연결해."
+  ],
+  [
+   "network",
+   "n.",
+   "네트워크, 망",
+   "The school has a fast network.",
+   "학교는 빠른 네트워크를 가지고 있어."
+  ],
+  [
+   "update",
+   "v./n.",
+   "업데이트하다; 업데이트",
+   "Please update the app.",
+   "그 앱을 업데이트해 주세요."
+  ],
+  [
+   "download",
+   "v.",
+   "다운로드하다",
+   "I downloaded a new game.",
+   "나는 새 게임을 다운로드했어."
+  ],
+  [
+   "upload",
+   "v.",
+   "업로드하다",
+   "She uploaded a video online.",
+   "그녀는 온라인에 영상을 업로드했어."
+  ],
+  [
+   "social media",
+   "n.",
+   "소셜 미디어",
+   "Teens spend a lot of time on social media.",
+   "십대들은 소셜 미디어에 많은 시간을 보내."
+  ],
+  [
+   "advertisement",
+   "n.",
+   "광고",
+   "I saw an advertisement for a new phone.",
+   "나는 새 휴대폰 광고를 봤어."
+  ],
+  [
+   "influence",
+   "n./v.",
+   "영향; 영향을 주다",
+   "Friends can influence your choices.",
+   "친구는 너의 선택에 영향을 줄 수 있어."
+  ]
+ ],
+ "11": [
+  [
+   "economy",
+   "n.",
+   "경제",
+   "The country's economy is growing.",
+   "그 나라의 경제는 성장하고 있어."
+  ],
+  [
+   "product",
+   "n.",
+   "제품",
+   "This product is very popular.",
+   "이 제품은 매우 인기가 있어."
+  ],
+  [
+   "produce",
+   "v.",
+   "생산하다",
+   "The factory produces cars.",
+   "그 공장은 자동차를 생산해."
+  ],
+  [
+   "consume",
+   "v.",
+   "소비하다",
+   "We consume too much plastic.",
+   "우리는 너무 많은 플라스틱을 소비해."
+  ],
+  [
+   "customer",
+   "n.",
+   "고객",
+   "The customer was satisfied with the service.",
+   "그 고객은 서비스에 만족했어."
+  ],
+  [
+   "purchase",
+   "v./n.",
+   "구매하다; 구매",
+   "She purchased a new laptop.",
+   "그녀는 새 노트북을 구매했어."
+  ],
+  [
+   "budget",
+   "n.",
+   "예산",
+   "We need to plan our budget.",
+   "우리는 예산을 계획해야 해."
+  ],
+  [
+   "afford",
+   "v.",
+   "~할 여유가 있다",
+   "I can't afford this expensive bag.",
+   "나는 이 비싼 가방을 살 여유가 없어."
+  ],
+  [
+   "income",
+   "n.",
+   "수입, 소득",
+   "His income increased this year.",
+   "그의 수입은 올해 증가했어."
+  ],
+  [
+   "profit",
+   "n.",
+   "이익, 수익",
+   "The company made a big profit.",
+   "그 회사는 큰 이익을 냈어."
+  ]
+ ],
+ "12": [
+  [
+   "flood",
+   "n.",
+   "홍수",
+   "The flood damaged many houses.",
+   "그 홍수는 많은 집을 손상시켰어."
+  ],
+  [
+   "earthquake",
+   "n.",
+   "지진",
+   "The earthquake shook the whole city.",
+   "그 지진은 도시 전체를 흔들었어."
+  ],
+  [
+   "typhoon",
+   "n.",
+   "태풍",
+   "A typhoon is coming this weekend.",
+   "이번 주말에 태풍이 온다."
+  ],
+  [
+   "drought",
+   "n.",
+   "가뭄",
+   "The drought damaged the crops.",
+   "그 가뭄은 농작물에 피해를 줬어."
+  ],
+  [
+   "temperature",
+   "n.",
+   "기온, 온도",
+   "The temperature dropped suddenly.",
+   "기온이 갑자기 떨어졌어."
+  ],
+  [
+   "humid",
+   "a.",
+   "습한",
+   "It's very humid in summer.",
+   "여름에는 매우 습해."
+  ],
+  [
+   "storm",
+   "n.",
+   "폭풍",
+   "A storm is coming tonight.",
+   "오늘 밤 폭풍이 올 거야."
+  ],
+  [
+   "lightning",
+   "n.",
+   "번개",
+   "Lightning struck the tall tree.",
+   "번개가 그 큰 나무를 쳤어."
+  ],
+  [
+   "thunder",
+   "n.",
+   "천둥",
+   "I heard thunder in the distance.",
+   "멀리서 천둥소리가 들렸어."
+  ],
+  [
+   "forecast",
+   "n./v.",
+   "예보; 예보하다",
+   "The forecast says it will rain tomorrow.",
+   "예보에 따르면 내일 비가 올 거야."
+  ]
+ ],
+ "13": [
+  [
+   "universe",
+   "n.",
+   "우주",
+   "The universe is huge and mysterious.",
+   "우주는 광대하고 신비로워."
+  ],
+  [
+   "planet",
+   "n.",
+   "행성",
+   "Earth is our home planet.",
+   "지구는 우리의 고향 행성이야."
+  ],
+  [
+   "gravity",
+   "n.",
+   "중력",
+   "Gravity pulls objects down.",
+   "중력은 물체를 아래로 끌어당겨."
+  ],
+  [
+   "astronaut",
+   "n.",
+   "우주비행사",
+   "The astronaut traveled to space.",
+   "그 우주비행사는 우주로 갔어."
+  ],
+  [
+   "satellite",
+   "n.",
+   "위성",
+   "The satellite orbits the Earth.",
+   "그 위성은 지구 궤도를 돌아."
+  ],
+  [
+   "galaxy",
+   "n.",
+   "은하",
+   "Our galaxy has billions of stars.",
+   "우리 은하에는 수십억 개의 별이 있어."
+  ],
+  [
+   "earth",
+   "n.",
+   "지구",
+   "We must take care of the earth.",
+   "우리는 지구를 돌봐야 해."
+  ],
+  [
+   "surface",
+   "n.",
+   "표면",
+   "The moon's surface is rocky.",
+   "달의 표면은 바위투성이야."
+  ],
+  [
+   "atmosphere",
+   "n.",
+   "대기",
+   "The atmosphere protects us from the sun.",
+   "대기는 우리를 태양으로부터 보호해."
+  ],
+  [
+   "orbit",
+   "n./v.",
+   "궤도; 궤도를 돌다",
+   "The moon orbits the Earth.",
+   "달은 지구 궤도를 돌아."
+  ]
+ ],
+ "14": [
+  [
+   "relationship",
+   "n.",
+   "관계",
+   "They have a close relationship.",
+   "그들은 가까운 관계를 가지고 있어."
+  ],
+  [
+   "trust",
+   "v./n.",
+   "신뢰하다; 신뢰",
+   "I trust my best friend completely.",
+   "나는 가장 친한 친구를 완전히 신뢰해."
+  ],
+  [
+   "support",
+   "v./n.",
+   "지지하다, 지원하다; 지원",
+   "My family always supports me.",
+   "우리 가족은 항상 나를 지지해."
+  ],
+  [
+   "share",
+   "v.",
+   "나누다, 공유하다",
+   "Let's share this pizza.",
+   "이 피자를 나눠 먹자."
+  ],
+  [
+   "comfort",
+   "v./n.",
+   "위로하다; 위안",
+   "She comforted her crying friend.",
+   "그녀는 우는 친구를 위로했어."
+  ],
+  [
+   "forgive",
+   "v.",
+   "용서하다",
+   "I forgive you for the mistake.",
+   "그 실수에 대해 너를 용서할게."
+  ],
+  [
+   "conflict",
+   "n.",
+   "갈등",
+   "They had a small conflict yesterday.",
+   "그들은 어제 작은 갈등이 있었어."
+  ],
+  [
+   "loyal",
+   "a.",
+   "충실한, 의리 있는",
+   "A dog is a loyal friend.",
+   "개는 충실한 친구야."
+  ],
+  [
+   "close",
+   "a.",
+   "친한, 가까운",
+   "We are very close friends.",
+   "우리는 매우 친한 친구야."
+  ],
+  [
+   "depend",
+   "v.",
+   "의존하다, 달려있다",
+   "Children depend on their parents.",
+   "아이들은 부모에게 의존해."
+  ]
+ ],
+ "15": [
+  [
+   "goal",
+   "n.",
+   "목표",
+   "My goal is to become a doctor.",
+   "내 목표는 의사가 되는 거야."
+  ],
+  [
+   "plan",
+   "n./v.",
+   "계획; 계획하다",
+   "We made a plan for the weekend.",
+   "우리는 주말 계획을 세웠어."
+  ],
+  [
+   "decide",
+   "v.",
+   "결정하다",
+   "I decided to study abroad.",
+   "나는 유학 가기로 결정했어."
+  ],
+  [
+   "choice",
+   "n.",
+   "선택",
+   "You have two choices.",
+   "너에게는 두 가지 선택지가 있어."
+  ],
+  [
+   "opportunity",
+   "n.",
+   "기회",
+   "This job is a great opportunity.",
+   "이 일자리는 좋은 기회야."
+  ],
+  [
+   "challenge",
+   "n./v.",
+   "도전; 도전하다",
+   "Learning a new language is a challenge.",
+   "새 언어를 배우는 것은 도전이야."
+  ],
+  [
+   "ability",
+   "n.",
+   "능력",
+   "She has the ability to lead.",
+   "그녀는 이끌어가는 능력이 있어."
+  ],
+  [
+   "skill",
+   "n.",
+   "기술, 기량",
+   "Cooking is a useful skill.",
+   "요리는 유용한 기술이야."
+  ],
+  [
+   "effort",
+   "n.",
+   "노력",
+   "Success requires a lot of effort.",
+   "성공은 많은 노력을 필요로 해."
+  ],
+  [
+   "accomplish",
+   "v.",
+   "성취하다, 해내다",
+   "We accomplished our mission.",
+   "우리는 임무를 완수했어."
+  ]
+ ],
+ "16": [
+  [
+   "problem",
+   "n.",
+   "문제",
+   "We have a big problem.",
+   "우리는 큰 문제가 있어."
+  ],
+  [
+   "solution",
+   "n.",
+   "해결책",
+   "We need to find a solution.",
+   "우리는 해결책을 찾아야 해."
+  ],
+  [
+   "solve",
+   "v.",
+   "해결하다",
+   "Can you solve this puzzle?",
+   "이 퍼즐을 풀 수 있어?"
+  ],
+  [
+   "opinion",
+   "n.",
+   "의견",
+   "What is your opinion?",
+   "네 의견은 뭐야?"
+  ],
+  [
+   "reason",
+   "n.",
+   "이유",
+   "Tell me the reason.",
+   "이유를 말해줘."
+  ],
+  [
+   "cause",
+   "n./v.",
+   "원인; 야기하다",
+   "What caused the accident?",
+   "무엇이 그 사고를 일으켰어?"
+  ],
+  [
+   "result",
+   "n.",
+   "결과",
+   "The result was surprising.",
+   "그 결과는 놀라웠어."
+  ],
+  [
+   "effect",
+   "n.",
+   "영향, 효과",
+   "The medicine had a good effect.",
+   "그 약은 좋은 효과가 있었어."
+  ],
+  [
+   "affect",
+   "v.",
+   "영향을 미치다",
+   "Noise can affect your sleep.",
+   "소음은 수면에 영향을 미칠 수 있어."
+  ],
+  [
+   "consider",
+   "v.",
+   "고려하다",
+   "Please consider my idea.",
+   "내 생각을 고려해줘."
+  ]
+ ],
+ "17": [
+  [
+   "similar",
+   "a.",
+   "비슷한",
+   "Our opinions are similar.",
+   "우리의 의견은 비슷해."
+  ],
+  [
+   "different",
+   "a.",
+   "다른",
+   "Our tastes are different.",
+   "우리의 취향은 달라."
+  ],
+  [
+   "difference",
+   "n.",
+   "차이",
+   "What's the difference between them?",
+   "그것들 사이의 차이가 뭐야?"
+  ],
+  [
+   "compare",
+   "v.",
+   "비교하다",
+   "Let's compare the two products.",
+   "그 두 제품을 비교해보자."
+  ],
+  [
+   "contrast",
+   "n./v.",
+   "대조; 대조하다",
+   "The contrast between the colors is beautiful.",
+   "그 색깔들 사이의 대조가 아름다워."
+  ],
+  [
+   "various",
+   "a.",
+   "다양한",
+   "The store sells various items.",
+   "그 가게는 다양한 물건을 팔아."
+  ],
+  [
+   "several",
+   "a.",
+   "몇몇의",
+   "I have several questions.",
+   "나는 몇 가지 질문이 있어."
+  ],
+  [
+   "huge",
+   "a.",
+   "거대한",
+   "That is a huge building.",
+   "저건 거대한 건물이야."
+  ],
+  [
+   "tiny",
+   "a.",
+   "아주 작은",
+   "The kitten is tiny.",
+   "그 새끼 고양이는 아주 작아."
+  ],
+  [
+   "common",
+   "a.",
+   "흔한, 공통의",
+   "This is a common mistake.",
+   "이건 흔한 실수야."
+  ]
+ ],
+ "18": [
+  [
+   "behave",
+   "v.",
+   "행동하다",
+   "Please behave well at school.",
+   "학교에서 바르게 행동해."
+  ],
+  [
+   "behavior",
+   "n.",
+   "행동",
+   "His behavior surprised everyone.",
+   "그의 행동은 모두를 놀라게 했어."
+  ],
+  [
+   "react",
+   "v.",
+   "반응하다",
+   "How did she react to the news?",
+   "그녀는 그 소식에 어떻게 반응했어?"
+  ],
+  [
+   "reaction",
+   "n.",
+   "반응",
+   "Her reaction was calm.",
+   "그녀의 반응은 침착했어."
+  ],
+  [
+   "respond",
+   "v.",
+   "응답하다, 반응하다",
+   "Please respond to my email.",
+   "내 이메일에 답해줘."
+  ],
+  [
+   "act",
+   "v./n.",
+   "행동하다; 행동",
+   "Act quickly in an emergency.",
+   "비상시에는 빠르게 행동해."
+  ],
+  [
+   "perform",
+   "v.",
+   "수행하다, 공연하다",
+   "The band will perform tonight.",
+   "그 밴드는 오늘 밤 공연할 거야."
+  ],
+  [
+   "participate",
+   "v.",
+   "참여하다",
+   "Everyone should participate in the event.",
+   "모두가 그 행사에 참여해야 해."
+  ],
+  [
+   "involve",
+   "v.",
+   "포함하다, 관련시키다",
+   "This project involves many people.",
+   "이 프로젝트는 많은 사람들을 포함해."
+  ],
+  [
+   "avoid",
+   "v.",
+   "피하다",
+   "Try to avoid junk food.",
+   "정크푸드를 피하려고 노력해."
+  ]
+ ],
+ "19": [
+  [
+   "compete",
+   "v.",
+   "경쟁하다",
+   "Athletes compete for the gold medal.",
+   "선수들은 금메달을 위해 경쟁해."
+  ],
+  [
+   "competition",
+   "n.",
+   "경쟁, 대회",
+   "She won first place in the competition.",
+   "그녀는 대회에서 1등을 했어."
+  ],
+  [
+   "opponent",
+   "n.",
+   "상대, 적수",
+   "Our opponent is very strong.",
+   "우리 상대는 매우 강해."
+  ],
+  [
+   "victory",
+   "n.",
+   "승리",
+   "The team celebrated their victory.",
+   "그 팀은 승리를 축하했어."
+  ],
+  [
+   "defeat",
+   "v./n.",
+   "패배시키다; 패배",
+   "We defeated the other team.",
+   "우리는 상대 팀을 이겼어."
+  ],
+  [
+   "champion",
+   "n.",
+   "챔피언, 우승자",
+   "He became the champion last year.",
+   "그는 작년에 챔피언이 되었어."
+  ],
+  [
+   "record",
+   "n./v.",
+   "기록; 기록하다",
+   "She broke the school record.",
+   "그녀는 학교 기록을 깼어."
+  ],
+  [
+   "score",
+   "n./v.",
+   "점수; 득점하다",
+   "He scored two goals.",
+   "그는 두 골을 넣었어."
+  ],
+  [
+   "athlete",
+   "n.",
+   "운동선수",
+   "She is a professional athlete.",
+   "그녀는 프로 운동선수야."
+  ],
+  [
+   "coach",
+   "n./v.",
+   "코치; 코치하다",
+   "Our coach is very strict.",
+   "우리 코치는 매우 엄격해."
+  ]
+ ],
+ "20": [
+  [
+   "create",
+   "v.",
+   "창조하다, 만들다",
+   "She created a beautiful painting.",
+   "그녀는 아름다운 그림을 창작했어."
+  ],
+  [
+   "creative",
+   "a.",
+   "창의적인",
+   "He has a creative mind.",
+   "그는 창의적인 생각을 가지고 있어."
+  ],
+  [
+   "imagine",
+   "v.",
+   "상상하다",
+   "Imagine a world without cars.",
+   "자동차 없는 세상을 상상해봐."
+  ],
+  [
+   "imagination",
+   "n.",
+   "상상력",
+   "Children have great imagination.",
+   "아이들은 뛰어난 상상력을 가지고 있어."
+  ],
+  [
+   "talent",
+   "n.",
+   "재능",
+   "She has a talent for music.",
+   "그녀는 음악에 재능이 있어."
+  ],
+  [
+   "design",
+   "v./n.",
+   "디자인하다; 디자인",
+   "He designed this poster.",
+   "그는 이 포스터를 디자인했어."
+  ],
+  [
+   "artist",
+   "n.",
+   "예술가",
+   "My sister wants to be an artist.",
+   "내 여동생은 예술가가 되고 싶어해."
+  ],
+  [
+   "audience",
+   "n.",
+   "관중, 청중",
+   "The audience clapped loudly.",
+   "관중은 크게 박수를 쳤어."
+  ],
+  [
+   "exhibit",
+   "n./v.",
+   "전시(품); 전시하다",
+   "The museum will exhibit new paintings.",
+   "그 박물관은 새로운 그림을 전시할 거야."
+  ],
+  [
+   "inspire",
+   "v.",
+   "영감을 주다",
+   "Her story inspired many people.",
+   "그녀의 이야기는 많은 사람에게 영감을 줬어."
+  ]
+ ],
+ "21": [
+  [
+   "safe",
+   "a.",
+   "안전한",
+   "This area is safe for children.",
+   "이 지역은 아이들에게 안전해."
+  ],
+  [
+   "safety",
+   "n.",
+   "안전",
+   "Safety comes first.",
+   "안전이 최우선이야."
+  ],
+  [
+   "danger",
+   "n.",
+   "위험",
+   "The sign warns of danger.",
+   "그 표지판은 위험을 경고해."
+  ],
+  [
+   "dangerous",
+   "a.",
+   "위험한",
+   "Swimming here is dangerous.",
+   "여기서 수영하는 건 위험해."
+  ],
+  [
+   "warn",
+   "v.",
+   "경고하다",
+   "The teacher warned us about the exam.",
+   "선생님은 시험에 대해 우리에게 경고했어."
+  ],
+  [
+   "warning",
+   "n.",
+   "경고",
+   "They ignored the warning.",
+   "그들은 그 경고를 무시했어."
+  ],
+  [
+   "accident",
+   "n.",
+   "사고",
+   "A car accident happened this morning.",
+   "오늘 아침 교통사고가 났어."
+  ],
+  [
+   "emergency",
+   "n.",
+   "비상, 응급상황",
+   "Call 911 in an emergency.",
+   "비상시에는 911에 전화해."
+  ],
+  [
+   "escape",
+   "v./n.",
+   "탈출하다; 탈출",
+   "They escaped from the fire safely.",
+   "그들은 화재에서 안전하게 탈출했어."
+  ],
+  [
+   "guard",
+   "v./n.",
+   "지키다; 경비원",
+   "A guard stood at the gate.",
+   "경비원이 문 앞에 서 있었어."
+  ]
+ ],
+ "22": [
+  [
+   "moment",
+   "n.",
+   "순간",
+   "Wait a moment, please.",
+   "잠시만 기다려 주세요."
+  ],
+  [
+   "period",
+   "n.",
+   "기간, 시기",
+   "This is a difficult period for her.",
+   "이건 그녀에게 힘든 시기야."
+  ],
+  [
+   "century",
+   "n.",
+   "세기",
+   "This castle is from the 15th century.",
+   "이 성은 15세기의 것이야."
+  ],
+  [
+   "recent",
+   "a.",
+   "최근의",
+   "Have you read the recent news?",
+   "최근 뉴스를 읽었어?"
+  ],
+  [
+   "immediately",
+   "adv.",
+   "즉시",
+   "Please reply immediately.",
+   "즉시 답장해 주세요."
+  ],
+  [
+   "gradually",
+   "adv.",
+   "점차",
+   "The weather is gradually getting warmer.",
+   "날씨가 점차 따뜻해지고 있어."
+  ],
+  [
+   "eventually",
+   "adv.",
+   "결국",
+   "Eventually, she found the answer.",
+   "결국 그녀는 답을 찾았어."
+  ],
+  [
+   "previous",
+   "a.",
+   "이전의",
+   "In the previous class, we learned grammar.",
+   "지난 수업에서 우리는 문법을 배웠어."
+  ],
+  [
+   "following",
+   "a.",
+   "다음의, 그 다음에 나오는",
+   "Read the following sentence.",
+   "다음 문장을 읽어라."
+  ],
+  [
+   "during",
+   "prep.",
+   "~동안",
+   "I fell asleep during the movie.",
+   "나는 영화 보는 동안 잠들었어."
+  ]
+ ],
+ "23": [
+  [
+   "insect",
+   "n.",
+   "곤충",
+   "I don't like insects.",
+   "나는 곤충을 좋아하지 않아."
+  ],
+  [
+   "plant",
+   "n./v.",
+   "식물; 심다",
+   "We planted trees in the park.",
+   "우리는 공원에 나무를 심었어."
+  ],
+  [
+   "wild",
+   "a.",
+   "야생의",
+   "Wild animals live in the forest.",
+   "야생 동물은 숲에 살아."
+  ],
+  [
+   "species",
+   "n.",
+   "종(생물)",
+   "This is a rare species of bird.",
+   "이것은 희귀한 새 종이야."
+  ],
+  [
+   "habitat",
+   "n.",
+   "서식지",
+   "Pollution destroys animal habitats.",
+   "오염은 동물의 서식지를 파괴해."
+  ],
+  [
+   "wing",
+   "n.",
+   "날개",
+   "Birds use their wings to fly.",
+   "새는 날개를 이용해 날아."
+  ],
+  [
+   "tail",
+   "n.",
+   "꼬리",
+   "The dog wagged its tail.",
+   "그 개는 꼬리를 흔들었어."
+  ],
+  [
+   "breed",
+   "v./n.",
+   "번식하다, 기르다; 품종",
+   "Some farmers breed sheep.",
+   "몇몇 농부들은 양을 기른다."
+  ],
+  [
+   "survive",
+   "v.",
+   "생존하다",
+   "Plants need water to survive.",
+   "식물은 생존하기 위해 물이 필요해."
+  ],
+  [
+   "extinct",
+   "a.",
+   "멸종된",
+   "Dinosaurs are extinct.",
+   "공룡은 멸종되었어."
+  ]
+ ],
+ "24": [
+  [
+   "ingredient",
+   "n.",
+   "재료",
+   "Flour is the main ingredient.",
+   "밀가루가 주재료야."
+  ],
+  [
+   "recipe",
+   "n.",
+   "조리법",
+   "Can you share your recipe?",
+   "조리법을 공유해 줄 수 있어?"
+  ],
+  [
+   "flavor",
+   "n.",
+   "맛, 풍미",
+   "This soup has a rich flavor.",
+   "이 수프는 풍미가 진해."
+  ],
+  [
+   "sour",
+   "a.",
+   "신",
+   "The lemon tastes very sour.",
+   "그 레몬은 매우 셔."
+  ],
+  [
+   "bitter",
+   "a.",
+   "쓴",
+   "Coffee can taste bitter.",
+   "커피는 쓴 맛이 날 수 있어."
+  ],
+  [
+   "spicy",
+   "a.",
+   "매운",
+   "I love spicy food.",
+   "나는 매운 음식을 좋아해."
+  ],
+  [
+   "boil",
+   "v.",
+   "끓이다",
+   "Boil the water first.",
+   "물을 먼저 끓여."
+  ],
+  [
+   "fry",
+   "v.",
+   "튀기다, 볶다",
+   "She fried some vegetables.",
+   "그녀는 채소를 좀 볶았어."
+  ],
+  [
+   "bake",
+   "v.",
+   "굽다",
+   "We baked cookies together.",
+   "우리는 함께 쿠키를 구웠어."
+  ],
+  [
+   "mix",
+   "v.",
+   "섞다",
+   "Mix the sugar and butter.",
+   "설탕과 버터를 섞어라."
+  ]
+ ],
+ "25": [
+  [
+   "traffic",
+   "n.",
+   "교통(량)",
+   "The traffic was terrible today.",
+   "오늘 교통이 정말 안 좋았어."
+  ],
+  [
+   "traffic jam",
+   "n.",
+   "교통 체증",
+   "We were stuck in a traffic jam.",
+   "우리는 교통 체증에 갇혔어."
+  ],
+  [
+   "pedestrian",
+   "n.",
+   "보행자",
+   "Drivers must watch for pedestrians.",
+   "운전자는 보행자를 조심해야 해."
+  ],
+  [
+   "vehicle",
+   "n.",
+   "차량, 탈것",
+   "That is a large vehicle.",
+   "저건 큰 차량이야."
+  ],
+  [
+   "route",
+   "n.",
+   "경로, 노선",
+   "We took a different route home.",
+   "우리는 집으로 다른 경로를 택했어."
+  ],
+  [
+   "delay",
+   "n./v.",
+   "지연; 지연시키다",
+   "The flight had a two-hour delay.",
+   "그 항공편은 두 시간 지연되었어."
+  ],
+  [
+   "arrive",
+   "v.",
+   "도착하다",
+   "We will arrive at noon.",
+   "우리는 정오에 도착할 거야."
+  ],
+  [
+   "depart",
+   "v.",
+   "출발하다",
+   "The train departs at nine.",
+   "기차는 9시에 출발해."
+  ],
+  [
+   "transport",
+   "v./n.",
+   "수송하다; 교통수단",
+   "Public transport is convenient here.",
+   "여기는 대중교통이 편리해."
+  ],
+  [
+   "license",
+   "n.",
+   "면허(증)",
+   "She got her driver's license.",
+   "그녀는 운전면허를 땄어."
+  ]
+ ],
+ "26": [
+  [
+   "news",
+   "n.",
+   "뉴스, 소식",
+   "I watch the news every evening.",
+   "나는 매일 저녁 뉴스를 봐."
+  ],
+  [
+   "article",
+   "n.",
+   "기사",
+   "I read an interesting article.",
+   "나는 흥미로운 기사를 읽었어."
+  ],
+  [
+   "report",
+   "n./v.",
+   "보도, 보고서; 보도하다",
+   "The reporter wrote a report on the fire.",
+   "그 기자는 화재에 대한 보도를 썼어."
+  ],
+  [
+   "journalist",
+   "n.",
+   "기자",
+   "She works as a journalist.",
+   "그녀는 기자로 일해."
+  ],
+  [
+   "broadcast",
+   "v./n.",
+   "방송하다; 방송",
+   "The game will be broadcast live.",
+   "그 경기는 생방송될 거야."
+  ],
+  [
+   "headline",
+   "n.",
+   "헤드라인, 표제",
+   "The headline caught my attention.",
+   "그 헤드라인이 내 관심을 끌었어."
+  ],
+  [
+   "interview",
+   "n./v.",
+   "인터뷰; 인터뷰하다",
+   "He gave an interview yesterday.",
+   "그는 어제 인터뷰를 했어."
+  ],
+  [
+   "announce",
+   "v.",
+   "발표하다",
+   "They announced the results today.",
+   "그들은 오늘 결과를 발표했어."
+  ],
+  [
+   "publish",
+   "v.",
+   "출판하다, 게재하다",
+   "She published her first novel.",
+   "그녀는 첫 소설을 출판했어."
+  ],
+  [
+   "rumor",
+   "n.",
+   "소문",
+   "It's just a rumor, not the truth.",
+   "그건 그냥 소문이지, 사실이 아니야."
+  ]
+ ],
+ "27": [
+  [
+   "manner",
+   "n.",
+   "예의, 태도",
+   "He has good table manners.",
+   "그는 좋은 식사 예절을 가지고 있어."
+  ],
+  [
+   "respect",
+   "v./n.",
+   "존중하다; 존중",
+   "We should respect other cultures.",
+   "우리는 다른 문화를 존중해야 해."
+  ],
+  [
+   "greet",
+   "v.",
+   "인사하다",
+   "She greeted us with a smile.",
+   "그녀는 미소로 우리에게 인사했어."
+  ],
+  [
+   "rude",
+   "a.",
+   "무례한",
+   "It's rude to interrupt others.",
+   "다른 사람의 말을 끊는 것은 무례해."
+  ],
+  [
+   "gesture",
+   "n.",
+   "몸짓, 제스처",
+   "He made a friendly gesture.",
+   "그는 친근한 제스처를 취했어."
+  ],
+  [
+   "bow",
+   "v./n.",
+   "절하다, 인사하다; 절",
+   "They bowed to the teacher.",
+   "그들은 선생님께 절을 했어."
+  ],
+  [
+   "handshake",
+   "n.",
+   "악수",
+   "They greeted each other with a handshake.",
+   "그들은 악수로 서로 인사했어."
+  ],
+  [
+   "formal",
+   "a.",
+   "격식 있는, 공식적인",
+   "Wear formal clothes to the interview.",
+   "면접에는 정장을 입어라."
+  ],
+  [
+   "informal",
+   "a.",
+   "격식 없는, 비공식적인",
+   "It was an informal meeting.",
+   "그건 비공식적인 회의였어."
+  ],
+  [
+   "appropriate",
+   "a.",
+   "적절한",
+   "Choose appropriate words for the situation.",
+   "상황에 맞는 적절한 단어를 골라라."
+  ]
+ ],
+ "28": [
+  [
+   "information",
+   "n.",
+   "정보",
+   "This website has useful information.",
+   "이 웹사이트는 유용한 정보를 가지고 있어."
+  ],
+  [
+   "data",
+   "n.",
+   "데이터, 자료",
+   "We collected a lot of data.",
+   "우리는 많은 데이터를 수집했어."
+  ],
+  [
+   "fact",
+   "n.",
+   "사실",
+   "It's a fact, not an opinion.",
+   "그건 사실이지, 의견이 아니야."
+  ],
+  [
+   "survey",
+   "n./v.",
+   "설문조사; 조사하다",
+   "We did a survey about eating habits.",
+   "우리는 식습관에 대한 설문조사를 했어."
+  ],
+  [
+   "statistics",
+   "n.",
+   "통계",
+   "The statistics show a clear trend.",
+   "그 통계는 명확한 추세를 보여줘."
+  ],
+  [
+   "graph",
+   "n.",
+   "그래프",
+   "Look at this graph.",
+   "이 그래프를 봐."
+  ],
+  [
+   "average",
+   "n./a.",
+   "평균; 평균의",
+   "The average score was 80.",
+   "평균 점수는 80점이었어."
+  ],
+  [
+   "percent",
+   "n.",
+   "퍼센트",
+   "Fifty percent of students agreed.",
+   "학생의 50퍼센트가 동의했어."
+  ],
+  [
+   "analyze",
+   "v.",
+   "분석하다",
+   "Scientists analyzed the results.",
+   "과학자들은 결과를 분석했어."
+  ],
+  [
+   "accurate",
+   "a.",
+   "정확한",
+   "Make sure the information is accurate.",
+   "정보가 정확한지 확인해."
+  ]
+ ],
+ "29": [
+  [
+   "grow",
+   "v.",
+   "자라다, 성장하다",
+   "Children grow quickly.",
+   "아이들은 빠르게 자라."
+  ],
+  [
+   "growth",
+   "n.",
+   "성장",
+   "The company saw rapid growth.",
+   "그 회사는 빠른 성장을 이루었어."
+  ],
+  [
+   "change",
+   "v./n.",
+   "변하다; 변화",
+   "Everything changes over time.",
+   "모든 것은 시간이 지나면서 변해."
+  ],
+  [
+   "mature",
+   "v./a.",
+   "성숙해지다; 성숙한",
+   "He has matured a lot this year.",
+   "그는 올해 많이 성숙해졌어."
+  ],
+  [
+   "adult",
+   "n.",
+   "성인",
+   "Adults must pay full price.",
+   "성인은 정가를 지불해야 해."
+  ],
+  [
+   "teenager",
+   "n.",
+   "십대",
+   "Teenagers often love social media.",
+   "십대들은 종종 소셜 미디어를 좋아해."
+  ],
+  [
+   "childhood",
+   "n.",
+   "어린 시절",
+   "She had a happy childhood.",
+   "그녀는 행복한 어린 시절을 보냈어."
+  ],
+  [
+   "independent",
+   "a.",
+   "독립적인",
+   "He became independent after college.",
+   "그는 대학 이후 독립적이 되었어."
+  ],
+  [
+   "adapt",
+   "v.",
+   "적응하다",
+   "Animals adapt to their environment.",
+   "동물은 자신의 환경에 적응해."
+  ],
+  [
+   "transform",
+   "v.",
+   "변형시키다, 바꾸다",
+   "The city transformed over ten years.",
+   "그 도시는 10년에 걸쳐 변화했어."
+  ]
+ ],
+ "30": [
+  [
+   "important",
+   "a.",
+   "중요한",
+   "This meeting is very important.",
+   "이 회의는 매우 중요해."
+  ],
+  [
+   "necessary",
+   "a.",
+   "필요한",
+   "Water is necessary for life.",
+   "물은 생명에 필요해."
+  ],
+  [
+   "possible",
+   "a.",
+   "가능한",
+   "Is it possible to finish today?",
+   "오늘 끝내는 게 가능해?"
+  ],
+  [
+   "impossible",
+   "a.",
+   "불가능한",
+   "Nothing is impossible.",
+   "불가능한 것은 없어."
+  ],
+  [
+   "certain",
+   "a.",
+   "확실한",
+   "I'm certain about my decision.",
+   "나는 내 결정에 확신이 있어."
+  ],
+  [
+   "probably",
+   "adv.",
+   "아마도",
+   "It will probably rain tomorrow.",
+   "내일 아마 비가 올 거야."
+  ],
+  [
+   "especially",
+   "adv.",
+   "특히",
+   "I love fruits, especially apples.",
+   "나는 과일을, 특히 사과를 좋아해."
+  ],
+  [
+   "actually",
+   "adv.",
+   "실제로",
+   "Actually, I disagree with you.",
+   "사실, 나는 너에게 동의하지 않아."
+  ],
+  [
+   "instead",
+   "adv.",
+   "대신에",
+   "Let's walk instead of driving.",
+   "운전하는 대신 걷자."
+  ],
+  [
+   "finally",
+   "adv.",
+   "마침내, 결국",
+   "Finally, we finished the project.",
+   "마침내 우리는 프로젝트를 끝냈어."
+  ]
+ ]
+}

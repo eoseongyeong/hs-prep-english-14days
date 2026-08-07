@@ -1,0 +1,190 @@
+/* 중학필수 영단어 300 — flashcard styles */
+
+body.fc-body {
+  overflow: hidden;
+  height: 100vh;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.fc-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.9rem 1rem;
+  flex: 0 0 auto;
+}
+
+.fc-topbar a.fc-home {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.fc-daylabel {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  color: var(--sea-deep);
+}
+
+.fc-counter {
+  font-size: 0.85rem;
+  color: var(--muted);
+  min-width: 3.5rem;
+  text-align: right;
+}
+
+.fc-track {
+  flex: 1 1 auto;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.fc-track::-webkit-scrollbar { display: none; }
+
+.fc-card {
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.9rem;
+  padding: 1.5rem 1.75rem 2rem;
+  text-align: center;
+}
+
+.fc-word {
+  font-family: var(--font-en);
+  font-weight: 700;
+  font-size: clamp(2.4rem, 12vw, 3.4rem);
+  color: var(--sea-deep);
+  cursor: pointer;
+  line-height: 1.1;
+}
+.fc-word::after {
+  content: " 🔊";
+  font-size: 0.5em;
+  opacity: 0.6;
+}
+.fc-word.speaking { color: var(--amber); }
+
+.fc-meta {
+  font-size: 1.05rem;
+  color: var(--ink);
+}
+.fc-pos {
+  color: var(--amber);
+  font-weight: 600;
+  margin-right: 0.4em;
+}
+
+.fc-example-box {
+  margin-top: 0.6rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem 1.2rem;
+  max-width: 26rem;
+  width: 100%;
+}
+
+.fc-ex {
+  font-family: var(--font-en);
+  font-size: 1.05rem;
+  cursor: pointer;
+}
+.fc-ex::after {
+  content: " 🔊";
+  font-size: 0.75em;
+  opacity: 0.55;
+}
+.fc-ex.speaking { color: var(--amber); }
+
+.fc-tr {
+  margin-top: 0.4rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.fc-hint {
+  color: var(--muted);
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+
+.fc-dots {
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0 0.7rem;
+}
+
+.fc-dots button {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
+  background: var(--line);
+  cursor: pointer;
+}
+.fc-dots button.active {
+  background: var(--sea);
+  width: 20px;
+  border-radius: 5px;
+}
+
+.fc-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0 1rem 1rem;
+}
+
+.fc-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 1rem;
+  border-radius: 999px;
+  background: var(--sea);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.85rem;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+.fc-btn:hover { background: var(--sea-deep); text-decoration: none; }
+.fc-btn.ghost {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--line);
+}
+.fc-btn.arrow {
+  width: 2.6rem;
+  height: 2.6rem;
+  padding: 0;
+  border-radius: 50%;
+  font-size: 1.1rem;
+}
+.fc-btn[disabled] {
+  opacity: 0.35;
+  pointer-events: none;
+}
+
+.fc-daynav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem 1rem;
+  gap: 0.5rem;
+}
+.fc-daynav a.fc-btn.ghost { flex: 1; }

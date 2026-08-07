@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "docs" / "word300"
 OUT.mkdir(parents=True, exist_ok=True)
 
-BRAND = "중학필수 영단어 300"
+BRAND = "초등필수 영단어 300"
 TOTAL_DAYS = 30
 
 WORDS = {int(k): v for k, v in json.loads((ROOT / "_word300_data.json").read_text(encoding="utf-8")).items()}
@@ -124,13 +124,39 @@ def render_index() -> str:
     <nav class="site-nav"><a href="../index.html">메인 코스</a></nav>
     <header class="hero">
       <p class="brand">{BRAND}</p>
-      <p>스마트폰으로 가볍게 훑는 중학 필수 영단어. 하루 10개, 30일이면 300개 완성.</p>
+      <p>스마트폰으로 가볍게 훑는 초등 필수 영단어. 하루 10개, 30일이면 300개 완성.</p>
       <div class="meta">
         <span class="chip">30 Days</span>
         <span class="chip">단어 300</span>
         <span class="chip">플래시카드</span>
       </div>
     </header>
+
+    <section class="card">
+      <h2>코스 선택</h2>
+      <div class="course-grid">
+        <div class="course-card current">
+          <span class="chip">현재 코스</span>
+          <p class="day">초등필수 영단어 300</p>
+          <p>초등 필수 영단어 300개, 문법 없이 플래시카드로.</p>
+        </div>
+        <a class="course-card" href="../midword300/index.html">
+          <span class="chip">기초</span>
+          <p class="day">중학필수 영단어 300</p>
+          <p>중학 필수 영단어 300개, 문법 없이 플래시카드로.</p>
+        </a>
+        <a class="course-card" href="../index.html">
+          <span class="chip">심화</span>
+          <p class="day">고등예비영문 14일 핵심</p>
+          <p>고1~고2 · 수능 기초 심화. 단어 420 + 문법 42.</p>
+        </a>
+        <a class="course-card" href="../cae/index.html">
+          <span class="chip">최상위</span>
+          <p class="day">CAE(C1) 14일 핵심</p>
+          <p>케임브리지 CAE 대비. 단어 420 + 문법 42.</p>
+        </a>
+      </div>
+    </section>
 
     <section class="card">
       <h2>학습 안내</h2>
