@@ -33,18 +33,18 @@
 | 22 | awe | v./n. | 경외감을 주다 | Cathedrals awe visitors with scale. |
 | 23 | bemuse | v. | 어리둥절하게 하다 | Sarcasm bemused nonnative speakers. |
 | 24 | disconcert | v. | 당황시키다 | Direct questions disconcert evasive politicians. |
-| 25 | electrify | v. | 전율· electrify | The goal electrified the stadium. |
+| 25 | electrify | v. | 짜릿하게 하다, 전율시키다 | The goal electrified the stadium. |
 | 26 | enchant | v. | 매혹하다 | Fairy tales enchant young readers. |
 | 27 | engross | v. | 몰두시키다 | Thrillers engross commuters. |
 | 28 | fascinate | v. | 매혹하다 | Quantum physics fascinates curious minds. |
 | 29 | hypnotize | v. | 최면· 매혹 | Rhythmic waves hypnotize watchers. |
-| 30 | intoxicate | v. | 도취· intoxicate | Power can intoxicate leaders. |
+| 30 | intoxicate | v. | 도취시키다, 취하게 하다 | Power can intoxicate leaders. |
 
 ### 단어 확인 퀴즈
 
 **A. 뜻 고르기**
 
-1. agitate — (a) 위축시키다 (b) 전율· electrify (c) 동요· 선동하다  
+1. agitate — (a) 위축시키다 (b) 짜릿하게 하다, 전율시키다 (c) 동요· 선동하다  
 2. bewilder — (a) 당황케 하다 (b) 짜증· 괴롭히다 (c) 매혹하다  
 3. captivate — (a) 당혹스럽게 하다 (b) 동요· 선동하다 (c) 매료시키다  
 4. daunt — (a) 당혹스럽게 하다 (b) 경외감을 주다 (c) 위축시키다  

@@ -11,50 +11,50 @@
 |-----|------|------|----|------|
 | 1 | accentuate | v. | 강조· 부각 | Lighting accentuates facial features. |
 | 2 | allude | v. | 암시· 언급 | Poets allude to classical myths. |
-| 3 | delineate | v. | 윤곽· delineate | Maps delineate national borders. |
+| 3 | delineate | v. | 윤곽을 그리다, 서술하다 | Maps delineate national borders. |
 | 4 | depict | v. | 묘사하다 | Novels depict social change vividly. |
 | 5 | elucidate | v. | 명확히 하다 | Footnotes elucidate obscure terms. |
-| 6 | encapsulate | v. |  encapsulate | The slogan encapsulates the campaign. |
-| 7 | epitomize | v. | 전형· epitomize | She epitomizes professional integrity. |
-| 8 | exemplify | v. | 전형· exemplify | Case studies exemplify key concepts. |
-| 9 | highlight | v. | 강조· highlight | Reports highlight systemic risks. |
-| 10 | illuminate | v. | 비추· illuminate | Archives illuminate forgotten histories. |
-| 11 | illustrate | v. | 설명· illustrate | Charts illustrate economic trends. |
+| 6 | encapsulate | v. | 요약하다, 압축하다 | The slogan encapsulates the campaign. |
+| 7 | epitomize | v. | 전형을 보여주다, 축소판이다 | She epitomizes professional integrity. |
+| 8 | exemplify | v. | 예증하다, 전형적인 예가 되다 | Case studies exemplify key concepts. |
+| 9 | highlight | v. | 강조하다, 부각시키다 | Reports highlight systemic risks. |
+| 10 | illuminate | v. | 밝히다, 조명하다 | Archives illuminate forgotten histories. |
+| 11 | illustrate | v. | 설명하다, 예증하다 | Charts illustrate economic trends. |
 | 12 | imply | v. | 암시하다 | Silence can imply consent. |
 | 13 | manifest | v./a. | 나타내다; 명백한 | Stress manifests in physical symptoms. |
 | 14 | pinpoint | v. | 정확히 짚다 | Analysts pinpoint causes of failure. |
-| 15 | portray | v. | 묘사· portray | Media portray scientists variously. |
+| 15 | portray | v. | 묘사하다 | Media portray scientists variously. |
 | 16 | signify | v. | 의미하다 | A red flag may signify danger. |
 | 17 | specify | v. | 명시하다 | Contracts specify payment terms. |
-| 18 | stress | v./n. | 강조· stress | Guidelines stress patient safety. |
+| 18 | stress | v./n. | 강조하다; 강조 | Guidelines stress patient safety. |
 | 19 | summarize | v. | 요약하다 | Abstracts summarize lengthy articles. |
-| 20 | typify | v. | 전형· typify | Suburbs typify postwar expansion. |
-| 21 | underscore | v. | 강조· underscore | Data underscore widening gaps. |
-| 22 | vindicate | v. | 정당화· vindicate | Appeals vindicated the defendant. |
-| 23 | affirm | v. | 확언· affirm | Courts affirm lower-court rulings. |
+| 20 | typify | v. | 전형적으로 보여주다 | Suburbs typify postwar expansion. |
+| 21 | underscore | v. | 강조하다 | Data underscore widening gaps. |
+| 22 | vindicate | v. | 정당성을 입증하다 | Appeals vindicated the defendant. |
+| 23 | affirm | v. | 확언하다, 단언하다 | Courts affirm lower-court rulings. |
 | 24 | annotate | v. | 주석 달다 | Scholars annotate classical texts. |
 | 25 | clarify | v. | 명확히 하다 | Spokespersons clarify policy details. |
 | 26 | denote | v. |  나타내다 | Symbols denote chemical elements. |
-| 27 | distill | v. |  distil· distill | Essays distill years of research. |
+| 27 | distill | v. | 증류하다, 정수만 추출하다 | Essays distill years of research. |
 | 28 | itemize | v. | 항목별로 열거 | Receipts itemize every expense. |
-| 29 | outline | v./n. | 개요· outline | Speakers outline three main points. |
-| 30 | recapitulate | v. | recapitulate | Conclusions recapitulate earlier arguments. |
+| 29 | outline | v./n. | 개요를 서술하다; 개요 | Speakers outline three main points. |
+| 30 | recapitulate | v. | 요약하다, 반복하다 | Conclusions recapitulate earlier arguments. |
 
 ### 단어 확인 퀴즈
 
 **A. 뜻 고르기**
 
-1. accentuate — (a) 의미하다 (b) 강조· highlight (c) 강조· 부각  
-2. allude — (a) 전형· epitomize (b) 암시· 언급 (c) 강조· stress  
-3. delineate — (a) 윤곽· delineate (b) 요약하다 (c) 의미하다  
-4. depict — (a) 묘사하다 (b)  encapsulate (c) 강조· 부각  
+1. accentuate — (a) 의미하다 (b) 강조하다, 부각시키다 (c) 강조· 부각  
+2. allude — (a) 전형을 보여주다, 축소판이다 (b) 암시· 언급 (c) 강조하다; 강조  
+3. delineate — (a) 윤곽을 그리다, 서술하다 (b) 요약하다 (c) 의미하다  
+4. depict — (a) 묘사하다 (b) 개요를 서술하다; 개요 (c) 강조· 부각  
 
 **B. 빈칸 채우기**
 
 5. Footnotes __________ obscure terms. (명확히 하다)  
-6. The slogan __________s the campaign. (encapsulate)  
-7. She __________s professional integrity. (전형)  
-8. Case studies __________ key concepts. (전형)  
+6. The slogan __________s the campaign. (요약하다, 압축하다)  
+7. She __________s professional integrity. (전형을 보여주다, 축소판이다)  
+8. Case studies __________ key concepts. (예증하다, 전형적인 예가 되다)  
 
 ---
 

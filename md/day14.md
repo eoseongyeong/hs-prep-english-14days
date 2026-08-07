@@ -9,12 +9,12 @@
 
 | No. | Word | 품사 | 뜻 | 예문 |
 |-----|------|------|----|------|
-| 1 | paraphrase | v./n. | paraphrase· paraphrase | Students paraphrase sources carefully. |
-| 2 | contextualize | v. | contextualize· contextualize | Historians contextualize primary documents. |
-| 3 | critique | v./n. | critique· critique | Peers critique draft manuscripts. |
-| 4 | juxtapose | v. | juxtapose· juxtapose | Artists juxtapose tradition and modernity. |
-| 5 | generalize | v. | generalize· generalize | Avoid generalizing from small samples. |
-| 6 | scrutinize | v. | scrutinize· scrutinize | Regulators scrutinize bank mergers. |
+| 1 | paraphrase | v./n. | 바꿔 말하다, 다른 말로 표현하다; 바꿔 쓰기 | Students paraphrase sources carefully. |
+| 2 | contextualize | v. | 맥락 속에 놓다, 맥락을 부여하다 | Historians contextualize primary documents. |
+| 3 | critique | v./n. | 비평하다; 비평 | Peers critique draft manuscripts. |
+| 4 | juxtapose | v. | 나란히 놓다, 병치하다 | Artists juxtapose tradition and modernity. |
+| 5 | generalize | v. | 일반화하다 | Avoid generalizing from small samples. |
+| 6 | scrutinize | v. | 면밀히 조사하다 | Regulators scrutinize bank mergers. |
 | 7 | nevertheless | ad. | 그럼에도 | The evidence is thin; nevertheless, the jury convicted. |
 | 8 | moreover | ad. | 게다가 | The plan is costly; moreover, it lacks public support. |
 | 9 | therefore | ad. | 그러므로 | Costs rose; therefore, prices increased. |
@@ -26,7 +26,7 @@
 | 15 | whereby | ad. | 그에 의하여 | A system whereby users verify identity online. |
 | 16 | wherein | ad. | 그 안에서 | A clause wherein parties agree to arbitration. |
 | 17 | transition | n. | 전환· 연결 | Smooth transitions improve essay coherence. |
-| 18 | rhetoric | n. | 수사· rhetoric | Political rhetoric often oversimplifies issues. |
+| 18 | rhetoric | n. | 수사(법), 화법 | Political rhetoric often oversimplifies issues. |
 | 19 | inference | n. | 추론 | Readers draw inferences from subtle cues. |
 | 20 | assertion | n. | 주장 | The assertion lacks empirical support. |
 | 21 | contention | n. | 논쟁· 주장 | Central contention of the dissertation. |
@@ -44,15 +44,15 @@
 
 **A. 뜻 고르기**
 
-1. paraphrase — (a) 그래서 (b) paraphrase· paraphrase (c) juxtapose· juxtapose  
-2. contextualize — (a) contextualize· contextualize (b) 따라서 (c) 추론  
-3. critique — (a) 전환· 연결 (b) critique· critique (c) 개요  
-4. juxtapose — (a) juxtapose· juxtapose (b) 담론 (c) 그러나  
+1. paraphrase — (a) 그래서 (b) 바꿔 말하다, 다른 말로 표현하다; 바꿔 쓰기 (c) 나란히 놓다, 병치하다  
+2. contextualize — (a) 맥락 속에 놓다, 맥락을 부여하다 (b) 따라서 (c) 추론  
+3. critique — (a) 전환· 연결 (b) 비평하다; 비평 (c) 개요  
+4. juxtapose — (a) 나란히 놓다, 병치하다 (b) 담론 (c) 그러나  
 
 **B. 빈칸 채우기**
 
-5. Please __________ the issue carefully. (generalize)  
-6. Regulators __________ bank mergers. (scrutinize)  
+5. Please __________ the issue carefully. (일반화하다)  
+6. Regulators __________ bank mergers. (면밀히 조사하다)  
 7. The evidence is thin; __________, the jury convicted. (그럼에도)  
 8. The plan is costly; __________, it lacks public support. (게다가)  
 

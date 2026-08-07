@@ -9,52 +9,52 @@
 
 | No. | Word | 품사 | 뜻 | 예문 |
 |-----|------|------|----|------|
-| 1 | accede | v. | 동의· accede | Governments accede to treaty terms. |
-| 2 | align | v. | align· 일치 | Goals align with corporate values. |
-| 3 | ascribe | v. | ascribe· 돌리다 | Historians ascribe decline to war. |
-| 4 | assail | v. | assail· 공격 | Critics assail the proposal. |
-| 5 | attach | v. | attach· 첨부 | Please attach supporting documents. |
-| 6 | conform | v. | conform· conform | Products must conform to standards. |
-| 7 | consign | v. | consign· 위탁 | Artworks were consigned to auction. |
-| 8 | entrust | v. | entrust· 맡기다 | Parents entrust children to schools. |
-| 9 | impute | v. | impute· 돌리다 | Do not impute motives without evidence. |
-| 10 | resort | v./n. | resort· resort | They resort to legal action. |
-| 11 | subscribe | v. | subscribe· subscribe | Many subscribe to streaming services. |
-| 12 | succumb | v. | succumb· succumb | He succumbed to peer pressure. |
-| 13 | acquiesce | v. | acquiesce· acquiesce | Boards acquiesce to shareholder demands. |
-| 14 | affiliate | v. | affiliate· affiliate | Universities affiliate with research labs. |
-| 15 | collude | v. | collude· collude | Firms must not collude on prices. |
-| 16 | conspire | v. | conspire· conspire | Defendants conspired to defraud investors. |
-| 17 | entangle | v. | entangle· entangle | Bureaucracy entangles small businesses. |
-| 18 | grapple | v. | grapple· grapple | Societies grapple with aging populations. |
-| 19 | intervene | v. | intervene· intervene | Courts intervene when rights are violated. |
-| 20 | mediate | v. | mediate· mediate | UN officials mediate ceasefire talks. |
-| 21 | retaliate | v. | retaliate· retaliate | Countries retaliate with tariffs. |
-| 22 | revolt | v./n. | revolt· revolt | Citizens revolt against corruption. |
-| 23 | secede | v. | secede· secede | Regions threatened to secede. |
-| 24 | unify | v. | unify· unify | Leaders seek to unify divided parties. |
-| 25 | accost | v. | accost· accost | Strangers accosted him for autographs. |
-| 26 | adjourn | v. | adjourn· adjourn | Sessions adjourn until next week. |
-| 27 | arbitrate | v. | arbitrate· arbitrate | Judges arbitrate labor disputes. |
-| 28 | convene | v. | convene· convene | Parliament will convene in emergency session. |
-| 29 | entreat | v. | entreat· entreat | Victims entreat lawmakers for justice. |
-| 30 | petition | v./n. | petition· petition | Residents petitioned for safer streets. |
+| 1 | accede | v. | 동의하다, 응하다 | Governments accede to treaty terms. |
+| 2 | align | v. | 일치시키다, 맞추다 | Goals align with corporate values. |
+| 3 | ascribe | v. | ~의 탓으로 돌리다 | Historians ascribe decline to war. |
+| 4 | assail | v. | 맹렬히 비난하다, 공격하다 | Critics assail the proposal. |
+| 5 | attach | v. | 첨부하다, 붙이다 | Please attach supporting documents. |
+| 6 | conform | v. | 따르다, 순응하다 | Products must conform to standards. |
+| 7 | consign | v. | 위탁하다, 넘기다 | Artworks were consigned to auction. |
+| 8 | entrust | v. | 맡기다, 위임하다 | Parents entrust children to schools. |
+| 9 | impute | v. | ~의 탓으로 돌리다 | Do not impute motives without evidence. |
+| 10 | resort | v./n. | 의지하다; 수단 | They resort to legal action. |
+| 11 | subscribe | v. | 구독하다, 동의하다 | Many subscribe to streaming services. |
+| 12 | succumb | v. | 굴복하다, 굴하다 | He succumbed to peer pressure. |
+| 13 | acquiesce | v. | 마지못해 동의하다 | Boards acquiesce to shareholder demands. |
+| 14 | affiliate | v. | 제휴하다, 가입하다 | Universities affiliate with research labs. |
+| 15 | collude | v. | 공모하다, 결탁하다 | Firms must not collude on prices. |
+| 16 | conspire | v. | 공모하다, 음모를 꾸미다 | Defendants conspired to defraud investors. |
+| 17 | entangle | v. | 얽어매다, 얽히게 하다 | Bureaucracy entangles small businesses. |
+| 18 | grapple | v. | 씨름하다, 대처하려 애쓰다 | Societies grapple with aging populations. |
+| 19 | intervene | v. | 개입하다 | Courts intervene when rights are violated. |
+| 20 | mediate | v. | 중재하다 | UN officials mediate ceasefire talks. |
+| 21 | retaliate | v. | 보복하다 | Countries retaliate with tariffs. |
+| 22 | revolt | v./n. | 반란을 일으키다; 반란 | Citizens revolt against corruption. |
+| 23 | secede | v. | 탈퇴하다, 분리 독립하다 | Regions threatened to secede. |
+| 24 | unify | v. | 통합하다, 통일하다 | Leaders seek to unify divided parties. |
+| 25 | accost | v. | 다가가서 말을 걸다 | Strangers accosted him for autographs. |
+| 26 | adjourn | v. | 휴회하다, 연기하다 | Sessions adjourn until next week. |
+| 27 | arbitrate | v. | 중재하다 | Judges arbitrate labor disputes. |
+| 28 | convene | v. | 소집하다, 모이다 | Parliament will convene in emergency session. |
+| 29 | entreat | v. | 간청하다 | Victims entreat lawmakers for justice. |
+| 30 | petition | v./n. | 청원하다; 청원(서) | Residents petitioned for safer streets. |
 
 ### 단어 확인 퀴즈
 
 **A. 뜻 고르기**
 
-1. accede — (a) revolt· revolt (b) arbitrate· arbitrate (c) 동의· accede  
-2. align — (a) 동의· accede (b) align· 일치 (c) acquiesce· acquiesce  
-3. ascribe — (a) acquiesce· acquiesce (b) revolt· revolt (c) ascribe· 돌리다  
-4. assail — (a) arbitrate· arbitrate (b) convene· convene (c) assail· 공격  
+1. accede — (a) 반란을 일으키다; 반란 (b) 중재하다 (c) 동의하다, 응하다  
+2. align — (a) 동의하다, 응하다 (b) 일치시키다, 맞추다 (c) 마지못해 동의하다  
+3. ascribe — (a) 통합하다, 통일하다 (b) 중재하다 (c) ~의 탓으로 돌리다  
+4. assail — (a) 보복하다 (b) 제휴하다, 가입하다 (c) 맹렬히 비난하다, 공격하다  
 
 **B. 빈칸 채우기**
 
-5. Please __________ supporting documents. (attach)  
-6. Products must __________ to standards. (conform)  
-7. Artworks were __________ed to auction. (consign)  
-8. Parents __________ children to schools. (entrust)  
+5. Please __________ supporting documents. (첨부하다, 붙이다)  
+6. Products must __________ to standards. (따르다, 순응하다)  
+7. Artworks were __________ed to auction. (위탁하다, 넘기다)  
+8. Parents __________ children to schools. (맡기다, 위임하다)  
 
 ---
 
