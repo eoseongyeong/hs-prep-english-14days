@@ -70,9 +70,8 @@
     return anyEnglish[0] || null;
   }
 
-  function speak(el) {
+  function fire(el) {
     window.speechSynthesis.cancel();
-    loadVoices(); // iOS sometimes hasn't fired voiceschanged yet; refresh right before picking
     var utter = new SpeechSynthesisUtterance(el.textContent.trim());
     var voice = pickVoice();
     if (voice) {
@@ -87,6 +86,22 @@
       el.classList.remove("speaking");
     };
     window.speechSynthesis.speak(utter);
+  }
+
+  function speak(el) {
+    loadVoices(); // iOS sometimes hasn't fired voiceschanged yet; refresh right before picking
+    if (!voices.length) {
+      // Some mobile browsers (e.g. Chrome on iOS) populate the voice list
+      // asynchronously even after getVoices() is called. Give it one short
+      // retry before falling back to the browser's default voice.
+      window.speechSynthesis.getVoices();
+      setTimeout(function () {
+        loadVoices();
+        fire(el);
+      }, 200);
+      return;
+    }
+    fire(el);
   }
 
   document.addEventListener("DOMContentLoaded", function () {
