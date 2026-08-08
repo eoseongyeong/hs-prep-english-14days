@@ -8,29 +8,37 @@
   loadVoices();
   window.speechSynthesis.onvoiceschanged = loadVoices;
 
-  var PREFERRED_NAMES = [
-    "Google UK English Female",
-    "Google UK English Male",
-    "Serena",
-    "Stephanie",
-    "Arthur",
-  ];
+  // Web Speech API doesn't expose voice gender directly, so we score by
+  // name hints. This covers common female/male-labeled voices across
+  // Chrome/Android ("Google UK English Female"), Windows ("Hazel", "Sonia",
+  // "Libby", "Susan"), and macOS/iOS ("Kate", "Serena", "Martha").
+  var FEMALE_HINTS = ["female", "hazel", "susan", "kate", "serena", "martha", "sonia", "libby"];
+  var MALE_HINTS = ["male", "daniel", "arthur", "george", "ryan", "rishi", "oliver"];
+
+  function scoreVoice(v) {
+    var name = v.name.toLowerCase();
+    for (var i = 0; i < FEMALE_HINTS.length; i++) {
+      if (name.indexOf(FEMALE_HINTS[i]) !== -1) return 2;
+    }
+    for (var i = 0; i < MALE_HINTS.length; i++) {
+      if (name.indexOf(MALE_HINTS[i]) !== -1) return 0;
+    }
+    return 1;
+  }
 
   function pickBritishVoice() {
-    for (var i = 0; i < PREFERRED_NAMES.length; i++) {
-      var found = voices.find(function (v) { return v.name === PREFERRED_NAMES[i]; });
-      if (found) return found;
+    var candidates = voices.filter(function (v) { return v.lang === "en-GB"; });
+    if (!candidates.length) {
+      candidates = voices.filter(function (v) { return v.lang && v.lang.indexOf("en-GB") === 0; });
     }
-    return (
-      voices.find(function (v) { return v.lang === "en-GB" && v.name.indexOf("Daniel") === -1; }) ||
-      voices.find(function (v) { return v.lang === "en-GB"; }) ||
-      voices.find(function (v) { return v.lang && v.lang.indexOf("en-GB") === 0; }) ||
-      null
-    );
+    if (!candidates.length) return null;
+    candidates.sort(function (a, b) { return scoreVoice(b) - scoreVoice(a); });
+    return candidates[0];
   }
 
   function speak(el) {
     window.speechSynthesis.cancel();
+    loadVoices(); // refresh in case voices loaded after page load without firing onvoiceschanged
     var utter = new SpeechSynthesisUtterance(el.textContent.trim());
     utter.lang = "en-GB";
     var voice = pickBritishVoice();
